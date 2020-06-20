@@ -8,6 +8,7 @@ from scipy import misc
 import glob
 import imageio
 import cv2
+import os
 # fetching images from ./resources and converting them into grayscale
 
 
@@ -56,10 +57,14 @@ def display():
     for img in arr:
         print(img.shape)
         images = Image.fromarray(img)
-        #plt.imshow(images, interpolation='nearest')
-        #plt.show()
-        
+        plt.imshow(images, interpolation='nearest')
+        plt.show()
         
 
+def change_file_name(name='james_corden'):     
+        if os.path.isdir("./resources/gray_scale/"):
+            for i, filename in enumerate(os.listdir("./resources/gray_scale/")):
+                os.rename("./resources/gray_scale/" + "/" + filename, "./resources/gray_scale/" + "/"+str(name)+'_' + str(i) + ".png")
 
 display()
+#change_file_name()
