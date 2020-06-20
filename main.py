@@ -11,7 +11,8 @@ import cv2
 # fetching images from ./resources and converting them into grayscale
 
 
-def fecth_and_convert():
+def fetch_and_convert():
+
     list_np_arrays = []
     for image_path in glob.glob("./resources/*.png"):
         img_open = cv2.imread(image_path)
@@ -25,13 +26,40 @@ def fecth_and_convert():
     return np_arrs
 
 
-def display(arr):
+def get_max_size(arr):
+    maxsize = (0, 0)
     for img in arr:
         images = Image.fromarray(img)
-        plt.imshow(images, interpolation='nearest')
-        plt.show()
-        break
+        if images.size > maxsize:
+            maxsize = images.size
+
+    return maxsize
 
 
-arrs = fecth_and_convert()
-display(arrs)
+def scale_img(max_width = 500, max_height = 500, inter = cv2.INTER_AREA):
+    images = fetch_and_convert()
+    maxsize = get_max_size(images)
+    scaled_images_list = []
+    scaling_factor = 0
+    for img in images:
+        (height,width) = img.shape[:2]
+        ratio = min(max_width/width, max_height/height)
+        #ratio = max_width / float(width)
+        dim = (int(height*ratio), int(width*ratio))
+        resized_img = cv2.resize(img, dim, interpolation = inter)
+        scaled_images_list.append(resized_img)
+    scaled_images_array = np.asarray(scaled_images_list)   
+    return scaled_images_array
+
+def display():
+    arr = scale_img()
+    for img in arr:
+        print(img.shape)
+        images = Image.fromarray(img)
+        #plt.imshow(images, interpolation='nearest')
+        #plt.show()
+        
+        
+
+
+display()
