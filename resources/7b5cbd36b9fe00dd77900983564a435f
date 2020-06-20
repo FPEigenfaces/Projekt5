@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchBucket</Code><Message>The specified bucket does not exist</Message><BucketName>images.dailystar-uk.co.uk</BucketName><RequestId>F587C18E7F5EA9A4</RequestId><HostId>DK6v31puHhfqrjR1XNQJ8vnTJR18ikHCMZMc4i/lEFxI6BWyBwAvWhgtxCusHlkxfc4QlYncAZI=</HostId></Error>

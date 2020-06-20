@@ -1,0 +1,371 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>philly.com: Philadelphia local news, sports, jobs, cars, homes</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="description" content="Award-winning news, sports, commentary, and more from the Philadelphia Daily News and Philadelphia Inquirer">
+	<meta name="keywords" content="Philadelphia, Philly, Philadelphia Inquirer, Daily News,">
+    <meta name="verify-v1" content="3x82DC93LZlv0I/hQEBoyVVjlGPtX7VxHFgv1upr+9I=" />
+    <meta name="y_key" content="29f3cb6efb7e05d5" />
+    <meta name="y_key" content="ccf0cd67e5f1e33c" />
+<meta name="google-site-verification" content="db3T5L3C8_JvO-55gJ22lGGUnZLlNulgzTwX1NhCV3o" />
+
+<link rel="icon" type="image/png" href="http://media.philly.com/designimages/favicon.png" />
+<link rel="icon" href="http://media.philly.com/designimages/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortcut icon" href="http://media.philly.com/designimages/favicon.ico" type="image/vnd.microsoft.icon" />
+
+<link rel="stylesheet" type="text/css" href="http://${cms.envHost}www.philly.com/includes/global.css"/>
+<link rel="stylesheet" type="text/css" href="http://${cms.envHost}www.philly.com/includes/main_philly.css"/>
+
+
+<style type="text/css">
+#error-404-header{font-size:15px;line-height:130%;text-align:center;width:948px;margin:0 auto 10px auto;padding-bottom:10px;border-bottom:1px solid #cccccc;}
+#error-404-header .error-inner{width:75%;margin:auto;}
+#error-404-header .misc_inner div{text-align:left;}
+#error-404-header a{font-weight:bold;}
+#error-404-header h1{color:#000000;font-family:Georgia,Palatino,Times New Roman,serif;font-size:36px;font-weight:bold;text-transform:capitalize;margin-bottom:0;}
+#error-404-header p:first-child,#error-404-header .containertitle + p,#error-404-header .misccontainer_middle_32 .headlineonly{margin-top:16px;}
+#error-404-header .misccontainer_left_32,#error-404-header .misccontainer_middle_32,#error-404-header .misccontainer_right_32{display:inline-block;font-size:13px;vertical-align:top;width:29%;float:none;*zoom:1;*display:inline;}
+#error-404-header .misccontainer_middle_32,#error-404-header .misccontainer_right_32{margin-left:2%;}
+#error-404-header .misccontainer_middle_32 .headlineonly,#error-404-header .misccontainer_middle_32 .headlineonly dt{padding:0;}
+#error-404-header .misccontainer_middle_32 .headlineonly dt{display:inline-block;width:49%;margin:0;*zoom:1;*display:inline;}
+#error-404-header .misccontainer_middle_32 .headlineonly dt div{display:none;}
+#error-404-header .containertitle,#error-404-header .supercontainertitle{background:#eee url('http://media.philly.com/designimages/bg-subpage-title.gif') repeat-x;color:#444;font-size:16px;text-transform:capitalize;margin:0 0 6px 0;padding:15px 15px 6px 10px;border-bottom:1px solid #ccc;}
+#error-404-header #error-404-search{position:relative;}
+#error-404-header #error-404-search #error-gsaphilly{display:block;color: #666;font-size:12px;font-family:arial,verdana,hevetica,sans-serif;font-style:italic;height:12px;width:192px;padding:7px 6px;border:1px solid #c3c3c3;box-shadow:0 0 2px 2px rgba(0,0,0,0.1) inset;vertical-align:middle;}
+#error-404-header #error-404-search #error-gsaphilly-label{position:absolute;top:4px;right:1px;height:26px;}
+#error-404-header #error-404-search #error-gsaphilly-label input{padding:5px 10px;border-left:1px solid #dedede;}
+#error-404-lCol .toppage-content-unit .supercontainer_left{border-right:0;}
+#philly-footer,.footercenter,#footerCopyright{margin: 0 auto;padding-left:0px;width:984px;}
+#philly-footer {width:964px; padding-left:20px;}
+.footercenter,#footerCopyright{background:#ffffff;}
+.footercenter{text-align:center;padding:10px 0;}
+.footercenter a{color:#000000;}
+#footerCopyright {padding-bottom:10px;}
+#philly-footer .container_3col_middle .misccontainer_left_49 {
+    margin-right: 17px;
+ }
+</style>
+
+<script type="text/javascript" language="javascript" src="http://www.philly.com/includes/global.js"></script>
+<script type="text/javascript" src="http://${cms.envHost}www.philly.com/includes/jQuery-1-8-2-min.js"> </script>
+
+
+</head>
+<body>
+<div class="tracking">
+
+ 	<script language="Javascript" >var js="0.0";</script><script language="Javascript1.0" >js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2" >js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4" >js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="javascript1.1" type="text/javascript">
+<!--
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900167911";_q+="&7=167911";_q+="&8="+escape(document.location);_q+="&9="+escape(_r);_q+="&10="+escape(document.title);_q+="&11="+escape(navigator.userAgent);_q+="&12="+escape((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+escape(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+escape((screen.width+'x'+screen.height));_q+="&17="+escape(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+escape(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900167911";_qc+="&7=167911";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
+
+</script><noscript>
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900167911&7=167911&18=0.7636244613615276">
+</noscript>
+
+
+
+<!-- SiteCatalyst code version: H.9.
+Copyright 1997-2007 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+<script type="text/javascript">
+
+if(window.location.href.indexOf("/doubleclick") > -1) {
+
+// do nothing here. workaround until iframe in doubleclick is resolved.
+
+} else {
+
+document.write('<script language="JavaScript" type="text/javascript" src="http://www.philly.com/includes/s_code.js"><\/script>');
+
+}
+
+</script>
+
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+s.pageType="errorPage"
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.9. -->
+
+
+</div>
+
+
+
+ <div id="member-bar-wrapper">
+ <div id="member-bar-area">
+ 	<div id="header-widgetArea">
+ 		<div id="tdate">
+ 		<script type="text/javascript">
+			var m_names = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
+			var d_names = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
+
+			var d = new Date();
+			var curr_date = d.getDate();
+			var curr_day = d.getDay();
+			var curr_month = d.getMonth();
+			var curr_year = d.getFullYear();
+			document.write(d_names[curr_day] + ", " + m_names[curr_month] + " " + curr_date + ", " + curr_year);
+		</script>
+ 		</div>
+ 	</div>
+ 	<div id="user-welcome-snippet-wrapper">
+ 			<div id="social-media-header">
+				<ul>
+					<li id="header_facebook_icon"><a href="https://www.facebook.com/phillydotcom"><span id="header_facebook_icon"><img width="20" border="0" src="http://media.philly.com/designimages/social-media-icons-facebook.png" /></span></a></li>
+					<li class="social_spacer"></li>
+					<li id="header_twitter_icon"><a href="https://twitter.com/phillydotcom"><span id="header_twitter_icon"><img width="20" border="0" src="http://media.philly.com/designimages/social-media-icons-twitter.png" /></span></a></li>
+					<li class="social_spacer"></li>
+					<li id="header_gplus_icon"><a href="https://plus.google.com/118103353324849374436/posts"><span id="header_gplus_icon"><img width="20" border="0" src="http://media.philly.com/designimages/social-media-icons-google.png" /></span></a></li>
+				</ul>
+ 			</div>
+ 			<div id="user-welcome-snippet">
+ 				
+
+			
+
+
+
+
+ 
+
+			<script language="javascript" type="text/javascript">
+								if (rm) {
+					if (!readCookie("username") || readCookie("username") == "") {
+					document.write('<div class="np-link"><b>Welcome, ' + rname + '</b></div> ');
+					} else {
+					document.write('<div class="np-link"><b>Welcome, <b>' + readCookie("username") + '</b></div> ');
+					}
+					
+if(readCookie("regConfirmationStatus") && readCookie("regConfirmationStatus") == "pending") {
+					document.write('<div class=\'np-link\'> <a href="/s?action=editReg&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fnews%2F110146329.html" id="myaccountlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: My Account\');">My Account</a></div>');
+
+document.write('<div class=\'np-link\'> | <a href="/s?action=requestConfirmation" id="resendlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Resend confirmation email\');">Resend confirmation email</a> |</div>');
+					} else {
+document.write('<div class=\'np-link\'> <a href="/philly/profiles/myprofile/" id="myprofilelink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: My Profile\');">My Profile</a> |</div>');}
+
+if(readCookie("ssoUser") == "true"){ 
+document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" action="/s" style="display:inline;"><input type="hidden" name="action" value="doLogout" /><a href="#" id="signoutlink" onclick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Sign Out\');javascript:logFBUser();"> Sign Out </a></form></div>'); 
+} else {
+					document.write('<div class=\'np-link\'> <a href="/s?action=doLogout&rurl=/s?action=login" id="signoutlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Sign Out\');javascript:eraseCookie(\'username\');return true;"> Sign Out </a></div>');
+}
+
+
+				} else {
+										document.write('<div class=\'np-link\'> <b>Member Login:</b></div><div class=\'np-link\'> <a href="/s?action=login&requested=y&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fnews%2F110146329.html" id="signinlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Sign In\');"> Sign In</a> |</div><div class=\'np-link\'> <a href="/s?action=reg&requested=y&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fnews%2F110146329.html" id="registerlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Register\');">Register</a></div>');
+								}
+			</script>
+
+
+
+
+ 				<div style="clear:left;"></div>
+ 			</div>
+ 		</div><!--this closes user welcome wrapper-->
+ 		<div style="clear:both;"></div>
+ </div><!-- this closes member bar area-->
+</div><!-- this closes member bar wrapper-->
+ 
+ 
+<div id="maincontainer">
+	
+<div id="pageTopCorner" class="sectionFront" style="overflow:hidden;">
+	
+<div id="headerLogo" itemscope itemtype="http://schema.org/Organization">
+		<a itemprop='url' href='http://${cms.envHost}www.philly.com/' target='_top' onClick="var s=s_gi('phillydev');s.tl(this,'o',' Logo: Header: Philly.com');"><img itemprop='logo' src='http://media.philly.com/designimages/phillydotcom-default-logo.png' width='260' alt='philly.com' name='logophilly' border='0' id='logophilly'></a>
+</div>
+<div id="inq-logo"><a id="inquirerDigitalLink" href="http://${cms.envHost}www.philly.com/inquirer" target="_blank" onClick="trackThisLink('Inquirer','Top Right','Inquirer: Top Right','Inquirer: '+s.pageName,true);"><img src="http://media.philly.com/designimages/philly_header_inq_logo_2014.png" border="0" width="140" alt="Inquirer" title="Inquirer" /></a>
+</div>
+<div id="dn-logo"><a id="dailynewsDigitalLink" href="http://${cms.envHost}www.philly.com/dailynews" target="_blank" onClick="trackThisLink('Daily News','Top Right','Daily News: Top Right','Daily News: '+s.pageName,true);"><img src="http://media.philly.com/designimages/philly_header_dn_logo_2014.png" border="0" width="120" alt="Daily News" title="Daily News" /></a>
+</div>	
+	
+	
+	<div id="weatherWrap">$cms.template("Weather widget")</div>
+	<div id="pageheader-navleft">
+
+				
+<div id="searchBtn"><a><img src="http://media.philly.com/designimages/header-search-btn.png" width="36" /></a></div>
+<div id="overlay_gradient" class="overlayGradient" style="display:none;"></div>
+<div id="search">
+<script type="text/javascript">
+	function searchFormSubmit2(form) {
+		qfield = jQuery("#gsaphilly").val();
+		if(qfield != null) {
+			if(qfield == "") {
+				jQuery('#search').hide();
+				jQuery('#overlay_gradient').css({display:'none'});
+				jQuery('#overlay_gradient').removeClass('overlay_gradientActive');
+			return false;
+			}
+			return true;
+		}
+	}
+</script>
+<form action="http://search.philly.com/search" method="get" name="gs" onsubmit="return searchFormSubmit2(this)" target="_top" id="search_form">
+		<input class="phillyGSA" type="hidden" name="search" value="y">
+	<input class="phillyGSA" type="hidden" value="philly" name="proxystylesheet">
+	<input class="phillyGSA" type="hidden" value="*" name="getfields">
+	<input class="phillyGSA" type="hidden" value="date:D:L:d1" name="sort">
+	<input class="phillyGSA" type="hidden" value="2048" name="tlen">
+	<input class="phillyGSA" type="hidden" value="20" name="num">
+	<input class="phillyGSA" type="hidden" value="3" name="entqr">
+	<input class="phillyGSA" type="hidden" value="a" name="entsp">
+	<input class="phillyGSA" type="hidden" value="UTF-8" name="oe">
+	<input class="phillyGSA" type="hidden" value="UTF-8" name="ie">
+	<input class="phillyGSA" type="hidden" value="1" name="ud">
+	<input class="phillyGSA" id="gsaphilly" name="q" type="text" class="keyword" value="Enter search term" onFocus="this.value='';">
+	<label>
+		<input name="Submit" value=""    type="submit" class="point-black" name="btnG">
+	</label>
+	<br/>	
+</form>
+<script type="text/javascript">
+   jQuery(document).click(function(e) {
+	var focusSearch = jQuery("#gsaphilly").is(":focus");
+	if (!focusSearch) {
+		jQuery('#search').hide();
+		jQuery('#overlay_gradient').css({display:'none'});
+		jQuery('#overlay_gradient').removeClass('overlay_gradientActive');
+	}
+   });
+  jQuery('#searchBtn a').click(function(e){
+	e.preventDefault();
+	jQuery('#overlay_gradient').css({display:'block'});
+	jQuery('#overlay_gradient').addClass('overlay_gradientActive');
+	jQuery("#search").show();
+	jQuery("#gsaphilly").focus();
+	 e.stopPropagation();
+  });
+</script>		
+		</div>	
+	</div>	
+
+<script language="JavaScript1.1" type="text/javascript" src="http://www.philly.com/templates/Javascript_-_Decoy?nav=upper"></script>
+
+
+</div>
+
+<div id="contentMainWrap">
+
+<script language="JavaScript1.1" type="text/javascript" src="http://www.philly.com/templates/Javascript_-_Decoy?nav=full&dropdown=y"></script>
+
+<script language="JavaScript1.1" type="text/javascript" src="http://www.philly.com/templates/Javascript_-_Decoy?searchbar=y"></script>
+
+<div id="contentcontainer-pre">
+
+		<div id="contentcontainer"  class="clearfix">
+
+<div id="error-404-header"><div class="error-inner">
+<h1>
+Uh-Oh?!
+</h1>
+
+<div class="body-content">
+	<script src="http://www.philly.com/templates/Javascript_-_Decoy?id=191666821&c=misc"></script>
+</div> <!-- end body-content-->
+</div></div> <!-- end error-content -->
+
+<div id="lCol">
+
+<div id="contentinsideAlternative" style="display:none">
+If you have reached this page upon trying to submit images to the site, you have exceeded the indicated file size limits.  Please go <a href="javascript:history.back();">back</a> to the submission
+page and choose images that meet the file size limits.
+</div>
+
+<div id="contentinsideForum" style="display:none">
+	<blockquote>
+		If you have reached this page upon trying to submit a new topic to a forum, your new topic may be in the process of being approved.  Please <a href="javascript:history.go(0);"><b>click here</b></a> to view your submission.
+		<script type="text/javascript">
+			var forumURL = window.location.href;
+			forumURLarray = forumURL.split('/');
+			var dotHtml = forumURLarray.length -1;
+			var forumURLpath = forumURLarray.splice(0,dotHtml,'/');
+			var forumURLparent = forumURLpath.toString()
+			var finalPath = forumURLparent.replace(/\,/g,"/");
+			document.write("<br \/><br \/><b><a href="+finalPath+">Go to the forums page.<\/a><\/b>");
+		</script>
+	</blockquote>
+</div>
+
+<div id="error-404-lCol">
+	<script src="http://www.philly.com/templates/Javascript_-_Decoy?containerIDn=170338496"></script>			
+</div>
+
+</div>
+		<div id="rCol">
+
+				<div id="contentrightside">
+
+
+		</div>
+
+		<div id="section_rectangle">
+			<div class="container_ad">
+
+
+
+
+	<script language="JavaScript1.1" type="text/javascript">
+document.write('<script language="JavaScript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/ph.homepage/homepage;!category=homepage;pos=srr1;sz=300x250,300x600;abr=!webtv;tile=8;ord='+_phDartOrd+'?"><\/SCRIPT>');
+	</script>
+
+	<noscript>
+	<a href="http://ad.doubleclick.net/jump/ph.homepage/homepage;!category=homepage;pos=srr1;sz=300x250,300x600;ord=091707060101?" target="_blank">
+	<img src="http://ad.doubleclick.net/ad/ph.homepage/homepage;!category=homepage;pos=srr1;sz=300x250,300x600;ord=091707060101?"  border="0" /></a>
+	</noscript>
+
+			</div>
+		</div>
+
+
+
+
+
+	<div id="rightcontent">
+
+	</div> <!-- end rightcontent -->
+
+
+	</div></div> <!-- this closes contentMainWrap-->
+
+	</div></div>
+<div class="divclear"></div>
+	
+<!-- footer	<script src="http://www.philly.com/templates/Javascript_-_Decoy?sitemap=mini"></script> -->
+		<script src="http://www.philly.com/templates/Javascript_-_Decoy?containerIDn=173120471"></script>
+	<div class="footercenter">
+		<script src="http://www.philly.com/templates/Javascript_-_Decoy?footer=links"></script>
+	</div>
+	<div id="footerCopyright">
+		&copy; Copyright <script>document.write(new Date().getFullYear())</script><noscript>2015</noscript> Philadelphia Media Network (Digital), LLC
+	</div>
+
+</div>
+<script type="text/javascript">
+// var errorURL = document.location;
+if(window.location.href.indexOf("/usergalleries") > -1) {
+	var mainContentDiv = document.getElementById("contentinside");
+	var mainContentAlternateDiv = document.getElementById("contentinsideAlternative");
+	mainContentDiv.style.display = 'none';
+	mainContentAlternateDiv.style.display = 'block';
+} else if(window.location.href.indexOf("/forums") > -1 && window.location.href.indexOf(".html") > -1) {
+	var mainContentDiv = document.getElementById("contentinside");
+	var mainContentAlternateDiv = document.getElementById("contentinsideForum");
+	mainContentDiv.style.display = 'none';
+	mainContentAlternateDiv.style.display = 'block';
+}	
+</script>
+
+</body>
+</html>

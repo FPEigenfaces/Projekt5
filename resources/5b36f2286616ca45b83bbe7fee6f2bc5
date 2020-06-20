@@ -1,0 +1,2261 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+	<head>
+		<title>The Fan Carpet</title>
+		
+		<!-- Default Meta Tags -->
+		<meta charset="ISO-8859-8">
+
+<link href="//www.google-analytics.com" rel="dns-prefetch">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=yes">
+
+<meta name="description" content="">
+		
+
+
+
+
+<link rel="pingback" href="http://thefancarpet.com/xmlrpc.php" />
+
+		<!-- Facebook integration -->
+  
+
+<meta property="og:site_name" content="The Fan Carpet">
+
+<meta property="og:url" content="http://thefancarpet.com"/>  
+<meta property="og:type" content="website" />
+<meta property="og:title" content="The Fan Carpet">
+<meta property="og:description" content="">
+
+
+        <!-- twitter integration -->
+  
+
+<meta property="og:site_name" content="The Fan Carpet">
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@thefancarpet">
+<meta name="twitter:title" content="The Fan Carpet">
+<meta name="twitter:description" content="">
+<meta name="twitter:url" content="http://thefancarpet.com/" />
+
+
+        <!-- google integration -->
+  
+
+<meta itemprop="name" content="HOME">
+<meta itemprop="description" content="T">
+
+
+
+		<!-- css + javascript -->
+		<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/rss+xml" title="The Fan Carpet &raquo; Feed" href="http://thefancarpet.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Fan Carpet &raquo; Comments Feed" href="http://thefancarpet.com/comments/feed/" />
+<link rel='stylesheet' id='flxmap-css'  href='http://thefancarpet.com/wp-content/plugins/wp-flexible-map/css/styles.css?ver=1.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='vwcss-flexslider-css'  href='http://thefancarpet.com/wp-content/themes/presso/framework/flexslider/flexslider-custom.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vwcss-icon-social-css'  href='http://thefancarpet.com/wp-content/themes/presso/framework/font-icons/social-icons/css/zocial.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vwcss-icon-entypo-css'  href='http://thefancarpet.com/wp-content/themes/presso/framework/font-icons/entypo/css/entypo.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vwcss-icon-symbol-css'  href='http://thefancarpet.com/wp-content/themes/presso/framework/font-icons/symbol/css/symbol.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vwcss-swipebox-css'  href='http://thefancarpet.com/wp-content/themes/presso/framework/swipebox/swipebox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vwcss-bootstrap-css'  href='http://thefancarpet.com/wp-content/themes/presso/framework/bootstrap/css/bootstrap.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vwcss-theme-css'  href='http://thefancarpet.com/wp-content/themes/presso/css/theme.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='childe-style-css'  href='http://thefancarpet.com/wp-content/themes/presso-child/style.css?ver=4.1.11' type='text/css' media='all' />
+<link rel='stylesheet' id='like-dislike-css'  href='http://thefancarpet.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/css/ldc-lite.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://thefancarpet.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var instant_search = {"blog_url":"http:\/\/thefancarpet.com","ajax_url":"http:\/\/thefancarpet.com\/wp-admin\/admin-ajax.php","placeholder":"Search"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-content/themes/presso/framework/instant-search/instant-search.js?ver=1.0'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.9'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thefancarpet.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thefancarpet.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.11" />
+<link rel='canonical' href='http://thefancarpet.com/' />
+<link rel='shortlink' href='http://thefancarpet.com/' />
+<script data-cfasync="false" src="//load.sumome.com/" data-sumo-site-id="f64c75410ccf82b03c434ccf3ce3d31e431473a341bb73cf3155fcb91b2fef64" async></script><!-- Google Analytics Tracking by Google Analyticator 6.4.9: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-10512328-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,400italic,700,700italic,700,700italic|Open+Sans:400,400italic,700,700italic,400,400italic&#038;subset=latin,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek,vietnamese' rel='stylesheet' type='text/css'>	<style type="text/css">
+				
+				
+		::selection { color: white; background-color: #3facd6; }
+		h1, h2, h3, h4, h5, h6 {
+			font-family: Oswald, sans-serif;
+			font-weight: 700;
+			color: #333333;
+		}
+		h1 { line-height: 1.1; }
+		h2 { line-height: 1.2; }
+		h3, h4, h5, h6 { line-height: 1.4; }
+		body {
+			font-family: Open Sans, sans-serif;
+			font-size: 14px;
+			font-weight: 400;
+			color: #666666;
+		}
+
+		.header-font,
+		woocommerce div.product .woocommerce-tabs ul.tabs li, .woocommerce-page div.product .woocommerce-tabs ul.tabs li, .woocommerce #content div.product .woocommerce-tabs ul.tabs li, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li
+		{ font-family: Oswald, sans-serif; font-weight: 700; }
+		.header-font-color { color: #333333; }
+
+		.wp-caption p.wp-caption-text {
+			color: #333333;
+			border-bottom-color: #333333;
+		}
+		
+		.body-font { font-family: Open Sans, sans-serif; font-weight: 400; }
+
+		/* Only header font, No font-weight */
+		.mobile-nav,
+		.top-nav,
+		.comment .author > span, .pingback .author > span, 
+		.label, .tagcloud a,
+		.woocommerce .product_meta .post-tags a,
+		.bbp-topic-tags a,
+		.woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price,
+		.main-nav .menu-link { font-family: Oswald, sans-serif; }
+
+		/* Primary Color */
+		.primary-bg,
+		.label, .tagcloud a,
+		.woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus,
+		#pagination > span {
+			background-color: #3facd6;
+		}
+		a, .social-share a:hover, .site-social-icons a:hover,
+		.bbp-topic-header a:hover,
+		.bbp-forum-header a:hover,
+		.bbp-reply-header a:hover { color: #3facd6; }
+		.button-primary { color: #3facd6; border-color: #3facd6; }
+		.primary-border { border-color: #3facd6; }
+
+		/* Top-bar Colors */
+		.top-bar {
+			background-color: #333333;
+			color: #eeeeee;
+		}
+
+		#open-mobile-nav, .top-nav  a, .top-bar-right > a {
+			color: #eeeeee;
+		}
+
+		#open-mobile-nav:hover, .top-nav  a:hover, .top-bar-right > a:hover {
+			background-color: #3facd6;
+			color: #ffffff;
+		}
+
+		.top-nav .menu-item:hover { background-color: #3facd6; }
+		.top-nav .menu-item:hover > a { color: #ffffff; }
+
+		/* Header Colors */
+		.main-bar {
+			background-color: #f9f9f9;
+			color: #bbbbbb;
+		}
+
+		/* Main Navigation Colors */
+		.main-nav-bar {
+			background-color: #333333;
+		}
+
+		.main-nav-bar, .main-nav > .menu-item > a {
+			color: #ffffff;
+		}
+
+		.main-nav .menu-item:hover > .menu-link,
+		.main-nav > .current-menu-ancestor > a,
+		.main-nav > .current-menu-item > a {
+			background-color: #3facd6;
+			color: #ffffff;
+		}
+
+		/* Widgets */
+		.widget_vw_widget_social_subscription .social-subscription:hover .social-subscription-icon { background-color: #3facd6; }
+		.widget_vw_widget_social_subscription .social-subscription:hover .social-subscription-count { color: #3facd6; }
+
+		.widget_vw_widget_categories a:hover { color: #3facd6; }
+
+		/* Footer Colors */
+		#footer {
+			background-color: #111111;
+		}
+
+		#footer .widget-title {
+			color: #3facd6;
+		}
+
+		#footer,
+		#footer .title,
+		#footer .comment-author,
+		#footer .social-subscription-count
+		{ color: #999999; }
+
+		.copyright {
+			background-color: #000000;
+		}
+		.copyright, .copyright a {
+			color: #dddddd;
+		}
+
+		/* Custom Styles */
+					</style>
+	
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+			<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+			<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.3.0/respond.min.js"></script>
+		<![endif]-->
+        
+         <link rel="icon" href="http://thefancarpet.com/wp-content/themes/presso/favicon.ico" type="image/ico" sizes="16x16"/> 
+	</head>
+	<body id="top" class="home page page-id-43 page-template page-template-page_composer page-template-page_composer-php site-layout-full-large site-enable-post-box-effects">
+
+			<nav id="mobile-nav-wrapper" role="navigation"></nav>
+			<div id="off-canvas-body-inner">
+
+				<!-- Top Bar -->
+				<div id="top-bar" class="top-bar">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="top-bar-right">
+
+									
+									<a class="site-social-icon" href="https://www.facebook.com/thefancarpet" title="Facebook" target="_blank"><i class="icon-social-facebook"></i></a><a class="site-social-icon" href="https://plus.google.com/103756784574385424489/posts" title="Google+" target="_blank"><i class="icon-social-google">+</i></a><a class="site-social-icon" href="http://www.instagram.com/fancarpet/" title="Instagram" target="_blank"><i class="icon-social-instagram"></i></a><a class="site-social-icon" href="https://www.twitter.com/thefancarpet" title="Twitter" target="_blank"><i class="icon-social-twitter"></i></a><a class="site-social-icon" href="https://www.youtube.com/user/thefancarpet" title="Youtube" target="_blank"><i class="icon-social-youtube"></i></a>
+									<a class="instant-search-icon" href="#menu1"><i class="icon-entypo-search"></i></a>
+								</div>
+
+								<a id="open-mobile-nav" href="#mobile-nav" title="Search"><i class="icon-entypo-menu"></i></a>
+								
+								<nav id="top-nav-wrapper">
+								<ul id="menu-top-menu" class="top-nav list-unstyled clearfix"><li id="nav-menu-item-121" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-43 current_page_item"><a href="http://thefancarpet.com/" class="menu-link main-menu-link"><span>HOME</span></a></li>
+<li id="nav-menu-item-108" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://thefancarpet.com/loginregister/" class="menu-link main-menu-link"><span>LOGIN / REGISTER</span></a>
+<ul class="sub-menu menu-odd  menu-depth-1">
+	<li id="nav-menu-item-109" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/loginregister/login/" class="menu-link sub-menu-link"><span>Login</span></a></li>
+	<li id="nav-menu-item-111" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/loginregister/register/" class="menu-link sub-menu-link"><span>Register</span></a></li>
+</ul>
+</li>
+<li id="nav-menu-item-113" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://thefancarpet.com/fansites/" class="menu-link main-menu-link"><span>FANSITES</span></a>
+<ul class="sub-menu menu-odd  menu-depth-1">
+	<li id="nav-menu-item-117" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/fansites/get-hosted/" class="menu-link sub-menu-link"><span>Get Hosted</span></a></li>
+	<li id="nav-menu-item-114" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/fansites/adopt-a-fansite/" class="menu-link sub-menu-link"><span>Adopt a Fansite</span></a></li>
+	<li id="nav-menu-item-116" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/fansites/fansites-a-z/" class="menu-link sub-menu-link"><span>Fansites A-Z</span></a></li>
+	<li id="nav-menu-item-118" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/fansites/tips-tools/" class="menu-link sub-menu-link"><span>Tips &#038; Tools</span></a></li>
+	<li id="nav-menu-item-115" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/fansites/fansite-of-the-day/" class="menu-link sub-menu-link"><span>Fansite of the Day</span></a></li>
+</ul>
+</li>
+<li id="nav-menu-item-119" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/the-team/" class="menu-link main-menu-link"><span>THE TEAM</span></a></li>
+<li id="nav-menu-item-273675" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.thefancarpet.net" class="menu-link main-menu-link"><span>TFC ON AIR PODCAST</span></a></li>
+<li id="nav-menu-item-295866" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.youtube.com/channel/UCLuRxT6SOQ_7ZFKCRhXQIYw" class="menu-link main-menu-link"><span>IN THE PROCESS</span></a></li>
+<li id="nav-menu-item-295867" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.actinghour.com/" class="menu-link main-menu-link"><span>#ACTINGHOUR</span></a></li>
+<li id="nav-menu-item-277253" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.ohmyhero.co.uk" class="menu-link main-menu-link"><span>OH MY HERO</span></a></li>
+<li id="nav-menu-item-238" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.hollyshop.com/" class="menu-link main-menu-link"><span>HOLLY SHOP</span></a></li>
+</ul>								</nav>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- End Top Bar -->
+				
+				<!-- Main Bar -->
+								<header class="main-bar header-layout-left-logo">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-12">
+								<div id="logo" class="">
+									<a href="http://thefancarpet.com/">
+																												
+                                        
+                                        	<img src="http://thefancarpet.com/wp-content/uploads/2015/04/tfc_newlogolaunch.jpg" alt="The Fan Carpet" class="logo-original" />																											<!--</a>-->
+								</div>
+							
+																<div class="header-ads">
+									<script type="text/javascript">
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N4403/adj/thefancarpet.com/ros;sect=ros;sz=728x90;dc_ref='+encodeURIComponent(location.href)+';ord=' + ord + '?"><\/script>');
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N4403/jump/thefancarpet.com/ros;sect=ros;sz=728x90;dc_ref='+encodeURIComponent(location.href)+';ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/N4403/ad/thefancarpet.com/ros;sect=ros;sz=728x90;dc_ref='+encodeURIComponent(location.href)+';ord=[timestamp]?" width="728" height="90" />
+</a>
+</noscript>								</div>
+																
+							</div>
+						</div>
+					</div>
+				</header>
+				<!-- End Main Bar -->
+
+				<!-- Main Navigation Bar -->
+				<div class="main-nav-bar header-layout-left-logo">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-12">
+								                
+                          
+                
+                          
+                
+                          
+                
+                          
+                
+                          
+                
+                          
+                
+                          
+                
+                          
+                
+                          
+                
+                          
+                
+                          
+                
+                          
+                
+                          
+                
+                          
+                
+                          
+                
+                          
+<nav id="main-nav-wrapper"><ul id="menu-main-menu" class="main-nav list-unstyled"><li id="nav-menu-item-124" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/films/" class="menu-link main-menu-link"><span>FILMS</span></a></li>
+<li id="nav-menu-item-125" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://thefancarpet.com/fans/" class="menu-link main-menu-link"><span>FANS</span></a>
+<ul class="sub-menu menu-odd  menu-depth-1">
+	<li id="nav-menu-item-128" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/fans/have-your-say/" class="menu-link sub-menu-link"><span>Have your say</span></a></li>
+	<li id="nav-menu-item-126" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/fans/free-screenings/" class="menu-link sub-menu-link"><span>Free Screenings</span></a></li>
+	<li id="nav-menu-item-275762" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/submit-review/" class="menu-link sub-menu-link"><span>SUBMIT REVIEW</span></a></li>
+	<li id="nav-menu-item-127" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/fans/ask-a-question/" class="menu-link sub-menu-link"><span>Ask a Question</span></a></li>
+</ul>
+</li>
+<li id="nav-menu-item-119456" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/news/" class="menu-link main-menu-link"><span>NEWS</span></a><ul class="sub-menu menu-odd  menu-depth-1">
+<article class="post-43 post-box post-box-large-thumbnail">
+ 
+  
+   
+    <!-- the loop -->
+        
+   <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			<a href="http://thefancarpet.com/movie_news/half-term-wonderland-james-bobins-alice-through-the-looking-glass-is-the-uks-number-one-film-during-school-holidays/"><img src="http://thefancarpet.com/wp-content/uploads/2016/06/alicelookingglassboxoffice.jpg"/></a>
+		</div>
+	<div class="post-box-inner">
+		<h3 class="title"><a href="http://thefancarpet.com/movie_news/half-term-wonderland-james-bobins-alice-through-the-looking-glass-is-the-uks-number-one-film-during-school-holidays/">Half-Term Wonderland: James Bobin&#8217;s Alice Through the Looking Glass is the UK’s Number One Film During School Holidays</a></h3>
+		</div>
+        
+        <div class="post-meta header-font">
+	<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-48x48.jpg' class='avatar avatar-48 photo' height='48' width='48' />	<a class="author-name vcard author" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin"><span class="fn">Admin</span></a>
+
+		<span class="post-meta-separator">&mdash;</span> <a href="http://thefancarpet.com/movie_news/half-term-wonderland-james-bobins-alice-through-the-looking-glass-is-the-uks-number-one-film-during-school-holidays/" class="post-date updated" title="Permalink to Half-Term Wonderland: James Bobin&#8217;s Alice Through the Looking Glass is the UK’s Number One Film During School Holidays" rel="bookmark">June 3, 2016</a>
+</div>
+   </li>    
+   <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			<a href="http://thefancarpet.com/movie_news/own-it-on-blu-ray-dvd-on-june-6-discover-the-journey-by-the-numbers-with-alejandro-gonzalez-inarritus-the-revenant/"><img src="http://thefancarpet.com/wp-content/uploads/2016/06/revenantinfographicnews.jpg"/></a>
+		</div>
+	<div class="post-box-inner">
+		<h3 class="title"><a href="http://thefancarpet.com/movie_news/own-it-on-blu-ray-dvd-on-june-6-discover-the-journey-by-the-numbers-with-alejandro-gonzalez-inarritus-the-revenant/">Own it on Blu-ray &#038; DVD on June 6 &#8211; Discover The Journey by the Numbers with Alejandro González Iñárritu’s The Revenant</a></h3>
+		</div>
+        
+        <div class="post-meta header-font">
+	<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-48x48.jpg' class='avatar avatar-48 photo' height='48' width='48' />	<a class="author-name vcard author" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin"><span class="fn">Admin</span></a>
+
+		<span class="post-meta-separator">&mdash;</span> <a href="http://thefancarpet.com/movie_news/own-it-on-blu-ray-dvd-on-june-6-discover-the-journey-by-the-numbers-with-alejandro-gonzalez-inarritus-the-revenant/" class="post-date updated" title="Permalink to Own it on Blu-ray &amp; DVD on June 6 &#8211; Discover The Journey by the Numbers with Alejandro González Iñárritu’s The Revenant" rel="bookmark">June 3, 2016</a>
+</div>
+   </li>    
+   <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			<a href="http://thefancarpet.com/movie_news/breaking-the-bank-in-cinemas-now-digital-download-june-6-and-dvd-june-20-the-hollywood-guide-to-banking/"><img src="http://thefancarpet.com/wp-content/uploads/2016/06/btbguidetobanking.jpg"/></a>
+		</div>
+	<div class="post-box-inner">
+		<h3 class="title"><a href="http://thefancarpet.com/movie_news/breaking-the-bank-in-cinemas-now-digital-download-june-6-and-dvd-june-20-the-hollywood-guide-to-banking/">Breaking the Bank &#8211; In Cinemas Now, Digital Download June 6 and DVD June 20 &#8211; The Hollywood Guide to Banking</a></h3>
+		</div>
+        
+        <div class="post-meta header-font">
+	<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-48x48.jpg' class='avatar avatar-48 photo' height='48' width='48' />	<a class="author-name vcard author" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin"><span class="fn">Admin</span></a>
+
+		<span class="post-meta-separator">&mdash;</span> <a href="http://thefancarpet.com/movie_news/breaking-the-bank-in-cinemas-now-digital-download-june-6-and-dvd-june-20-the-hollywood-guide-to-banking/" class="post-date updated" title="Permalink to Breaking the Bank &#8211; In Cinemas Now, Digital Download June 6 and DVD June 20 &#8211; The Hollywood Guide to Banking" rel="bookmark">June 3, 2016</a>
+</div>
+   </li></article>					</ul>
+</li>
+<li id="nav-menu-item-474" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/review/" class="menu-link main-menu-link"><span>REVIEWS</span></a><ul class="sub-menu menu-odd  menu-depth-1">
+<article class="post-43 post-box post-box-large-thumbnail">
+ 
+  
+   
+    <!-- the loop -->
+        
+   <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			<a href="http://thefancarpet.com/reviews/theniceguys/"><img src="http://thefancarpet.com/wp-content/uploads/2016/06/TheNiceGuys_review.jpg"/></a>
+		</div>
+	<div class="post-box-inner">
+		        
+          <img src="http://thefancarpet.com/wp-content/themes/presso/img/star.png"  />
+  <img src="http://thefancarpet.com/wp-content/themes/presso/img/star.png"  />
+  <img src="http://thefancarpet.com/wp-content/themes/presso/img/star.png"  />
+  <img src="http://thefancarpet.com/wp-content/themes/presso/img/halfstar.png"  />
+   <img src="http://thefancarpet.com/wp-content/themes/presso/img/norating.png"  />
+ 		
+		<h3 class="title"><a href="http://thefancarpet.com/reviews/theniceguys/">The Nice Guys(2016)</a></h3>
+		<div class="post-meta header-font">
+			by Gloria Daniels-Moss		</div>
+	</div>
+   </li>    
+   <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			<a href="http://thefancarpet.com/reviews/breakingthebank/"><img src="http://thefancarpet.com/wp-content/uploads/2016/06/BreakingTheBank_review.jpg"/></a>
+		</div>
+	<div class="post-box-inner">
+		        
+         <img src="http://thefancarpet.com/wp-content/themes/presso/img/star.png"  />
+  <img src="http://thefancarpet.com/wp-content/themes/presso/img/star.png"  />
+  <img src="http://thefancarpet.com/wp-content/themes/presso/img/halfstar.png"  />
+    <img src="http://thefancarpet.com/wp-content/themes/presso/img/norating.png"  />
+  <img src="http://thefancarpet.com/wp-content/themes/presso/img/norating.png"  />
+ 		
+		<h3 class="title"><a href="http://thefancarpet.com/reviews/breakingthebank/">Breaking the Bank(2016)</a></h3>
+		<div class="post-meta header-font">
+			by Federica Roberti		</div>
+	</div>
+   </li>    
+   <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			<a href="http://thefancarpet.com/reviews/mebeforeyou/"><img src="http://thefancarpet.com/wp-content/uploads/2016/05/MeBeforeYou_review.jpg"/></a>
+		</div>
+	<div class="post-box-inner">
+		        
+         <img src="http://thefancarpet.com/wp-content/themes/presso/img/star.png"  />
+  <img src="http://thefancarpet.com/wp-content/themes/presso/img/star.png"  />
+  <img src="http://thefancarpet.com/wp-content/themes/presso/img/star.png"  />
+  <img src="http://thefancarpet.com/wp-content/themes/presso/img/star.png"  />
+   <img src="http://thefancarpet.com/wp-content/themes/presso/img/norating.png"  />
+   		
+		<h3 class="title"><a href="http://thefancarpet.com/reviews/mebeforeyou/">Me Before You(2016)</a></h3>
+		<div class="post-meta header-font">
+			by Gloria Daniels-Moss		</div>
+	</div>
+   </li></article>					</ul>
+</li>
+<li id="nav-menu-item-275761" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/submit-review/" class="menu-link main-menu-link"><span>SUBMIT REVIEW</span></a></li>
+<li id="nav-menu-item-97477" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/interviews/" class="menu-link main-menu-link"><span>INTERVIEWS</span></a><ul class="sub-menu menu-odd  menu-depth-1">
+<article class="post-43 post-box post-box-large-thumbnail">
+ 
+  
+   
+    <!-- the loop -->
+        
+   <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			<a href="http://thefancarpet.com/interview/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/"><img src="http://thefancarpet.com/wp-content/uploads/2016/06/theniceguyspc.jpg"/></a>
+		</div>
+	<div class="post-box-inner">
+		<h3 class="title"><a href="http://thefancarpet.com/interview/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/">Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference</a></h3>
+        
+        <div class="post-meta header-font">
+	
+		<!--<span class="post-meta-separator">&mdash;</span> --><a href="http://thefancarpet.com/interview/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/" class="post-date updated" title="Permalink to Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference" rel="bookmark">June 3, 2016</a>
+</div>
+		</div>
+   </li>    
+   <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			<a href="http://thefancarpet.com/interview/better-when-im-dancin-a-conversation-with-multi-platinum-superstar-meghan-trainor/"><img src="http://thefancarpet.com/wp-content/uploads/2016/05/meghansnoopyintmain.jpg"/></a>
+		</div>
+	<div class="post-box-inner">
+		<h3 class="title"><a href="http://thefancarpet.com/interview/better-when-im-dancin-a-conversation-with-multi-platinum-superstar-meghan-trainor/">Better When I’m Dancin’: A Conversation with Multi Platinum superstar Meghan Trainor</a></h3>
+        
+        <div class="post-meta header-font">
+	
+		<!--<span class="post-meta-separator">&mdash;</span> --><a href="http://thefancarpet.com/interview/better-when-im-dancin-a-conversation-with-multi-platinum-superstar-meghan-trainor/" class="post-date updated" title="Permalink to Better When I’m Dancin’: A Conversation with Multi Platinum superstar Meghan Trainor" rel="bookmark">May 31, 2016</a>
+</div>
+		</div>
+   </li>    
+   <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			<a href="http://thefancarpet.com/interview/remembering-a-legend-a-conversation-with-jeannie-schulz/"><img src="http://thefancarpet.com/wp-content/uploads/2016/05/jeanniepeanutsqamain.jpg"/></a>
+		</div>
+	<div class="post-box-inner">
+		<h3 class="title"><a href="http://thefancarpet.com/interview/remembering-a-legend-a-conversation-with-jeannie-schulz/">Remembering a Legend: A Conversation with Jeannie Schulz</a></h3>
+        
+        <div class="post-meta header-font">
+	
+		<!--<span class="post-meta-separator">&mdash;</span> --><a href="http://thefancarpet.com/interview/remembering-a-legend-a-conversation-with-jeannie-schulz/" class="post-date updated" title="Permalink to Remembering a Legend: A Conversation with Jeannie Schulz" rel="bookmark">May 31, 2016</a>
+</div>
+		</div>
+   </li></article>					</ul>
+</li>
+<li id="nav-menu-item-133" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/photos/" class="menu-link main-menu-link"><span>PHOTOS</span></a><ul class="sub-menu menu-odd  menu-depth-1">
+<article class="post-43 post-box post-box-large-thumbnail">
+ 
+  
+   
+    <!-- the loop -->
+         <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			 <a href="http://thefancarpet.com/movies/thefundamentalsofcaring/?id=297075">              
+<img width="300" height="168"  class="attachment-medium wp-post-image head-photo" src="http://thefancarpet.com/wp-content/uploads/2016/06/TheFundamentalsOfCaring2.jpg">
+             </a>
+		</div>
+	<div class="post-box-inner">
+				
+		<h3 class="title"> <a href="http://thefancarpet.com/movies/thefundamentalsofcaring/">  The Fundamentals of Caring</a></h3>
+		<div class="post-meta header-font">
+			Out 24 June 2016		</div>
+	</div>
+ </li> 
+  
+   
+    <!-- the loop -->
+         <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			 <a href="http://thefancarpet.com/movies/diaryofachambermaid/?id=297313">              
+<img width="300" height="168"  class="attachment-medium wp-post-image head-photo" src="http://thefancarpet.com/wp-content/uploads/2016/06/DiaryOfAChambermaid4.jpg">
+             </a>
+		</div>
+	<div class="post-box-inner">
+				
+		<h3 class="title"> <a href="http://thefancarpet.com/movies/diaryofachambermaid/">  Diary of a Chambermaid</a></h3>
+		<div class="post-meta header-font">
+			Out 10 June 2016		</div>
+	</div>
+ </li> 
+  
+   
+    <!-- the loop -->
+         <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			 <a href="http://thefancarpet.com/movies/teenagemutantninjaturtles_outoftheshadows/?id=286351">              
+<img width="300" height="168"  class="attachment-medium wp-post-image head-photo" src="http://thefancarpet.com/wp-content/uploads/2015/12/TeenageMutantNinjaTurtles_OutOfTheShadows2.jpg">
+             </a>
+		</div>
+	<div class="post-box-inner">
+				
+		<h3 class="title"> <a href="http://thefancarpet.com/movies/teenagemutantninjaturtles_outoftheshadows/">  Teenage Mutant Ninja Turtles: Out of the Shadows</a></h3>
+		<div class="post-meta header-font">
+			Out 30 May 2016		</div>
+	</div>
+ </li></article>
+<style>
+.attachment-medium.wp-post-image.head-photo {
+    height: 200px;
+    width: 300px;
+}
+</style>					</ul>
+</li>
+<li id="nav-menu-item-137" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/competitions/" class="menu-link main-menu-link"><span>COMPETITIONS</span></a><ul class="sub-menu menu-odd  menu-depth-1">
+
+<article class="post-43 post-box post-box-large-thumbnail">
+	    <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			<a href="http://thefancarpet.com/entercompetition?id=974"><img src="http://thefancarpet.com/wp-admin/../wp-content/compitionimage/niceguystshirtcompthumb.jpg"/></a>
+		</div>
+	<div class="post-box-inner">
+				
+		<h3 class="title"><a href="http://thefancarpet.com/entercompetition?id=974"> Win a T-Shirt with Shane Black's The Nice Guys!</a></h3>
+		<div class="post-meta header-font">
+			
+			<a href="http://thefancarpet.com/entercompetition?id=974">ENTER THIS COMPETITION</a>
+		</div>
+	</div>
+    </li>    <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			<a href="http://thefancarpet.com/entercompetition?id=973"><img src="http://thefancarpet.com/wp-admin/../wp-content/compitionimage/trustbundlecompthumb.jpg"/></a>
+		</div>
+	<div class="post-box-inner">
+				
+		<h3 class="title"><a href="http://thefancarpet.com/entercompetition?id=973"> Win an Amazing DVD Bundle with The Trust!</a></h3>
+		<div class="post-meta header-font">
+			
+			<a href="http://thefancarpet.com/entercompetition?id=973">ENTER THIS COMPETITION</a>
+		</div>
+	</div>
+    </li>    <li class="col-sm-4">		<div class="post-thumbnail-wrapper">
+			<a href="http://thefancarpet.com/entercompetition?id=972"><img src="http://thefancarpet.com/wp-admin/../wp-content/compitionimage/houndofthebaskervillesblucompthumb.jpg"/></a>
+		</div>
+	<div class="post-box-inner">
+				
+		<h3 class="title"><a href="http://thefancarpet.com/entercompetition?id=972"> Win The Hound Of The Baskervilles on Blu-ray!</a></h3>
+		<div class="post-meta header-font">
+			
+			<a href="http://thefancarpet.com/entercompetition?id=972">ENTER THIS COMPETITION</a>
+		</div>
+	</div>
+    </li></article>
+					</ul>
+</li>
+<li id="nav-menu-item-138" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://thefancarpet.com/hire-us/" class="menu-link main-menu-link"><span>HIRE US</span></a>
+<ul class="sub-menu menu-odd  menu-depth-1">
+	<li id="nav-menu-item-141" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/hire-us/what-we-do/" class="menu-link sub-menu-link"><span>What we do</span></a></li>
+	<li id="nav-menu-item-140" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/hire-us/our-clientsportfolio/" class="menu-link sub-menu-link"><span>Our Clients/Portfolio</span></a></li>
+	<li id="nav-menu-item-139" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/hire-us/contact-us/" class="menu-link sub-menu-link"><span>Contact Us</span></a></li>
+</ul>
+</li>
+</ul></nav>							</div>
+						</div>
+					</div>
+				</div>
+				<!-- End Main Navigation Bar -->
+	
+<div id="page-wrapper" class="container">
+	<div class="row vwpc-row">		<div class="vwpc-section-featured_post_slider ">
+						<div class="col-sm-12">
+							<hr class="section-hr">
+				<div class="flexslider no-control-nav post-slider">
+	<ul class="slides">
+
+			<li>
+			<a href="http://thefancarpet.com/movies/breakingthebank/" title="Permalink to Breaking the Bank" rel="bookmark">
+				<div class="post-thumbnail-wrapper">
+                
+                				 <img width="615" height="410" alt="Breaking the Bank" class="attachment-vw_large wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/05/19BreakingTheBank.jpg"> 
+				
+									</div>
+
+				<div class="post-box-inner">
+                                					<h4 class="bannersubTitle">RELEASED : <span class="super-title">June 03, 2016</span></h4> 
+
+					<h3 class="title">
+						
+						<span>Breaking the Bank</span>
+					</h3>
+					<span class="read-more label label-large">
+						More Information <i class="icon-entypo-right-open"></i>
+					</span>
+				</div>
+			</a>
+		</li>
+			<li>
+			<a href="http://thefancarpet.com/movies/race/" title="Permalink to Race" rel="bookmark">
+				<div class="post-thumbnail-wrapper">
+                
+                				 <img width="615" height="410" alt="Race" class="attachment-vw_large wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/04/Race9.jpg"> 
+				
+									</div>
+
+				<div class="post-box-inner">
+                                					<h4 class="bannersubTitle">RELEASED : <span class="super-title">June 03, 2016</span></h4> 
+
+					<h3 class="title">
+						
+						<span>Race</span>
+					</h3>
+					<span class="read-more label label-large">
+						More Information <i class="icon-entypo-right-open"></i>
+					</span>
+				</div>
+			</a>
+		</li>
+			<li>
+			<a href="http://thefancarpet.com/movies/mebeforeyou/" title="Permalink to Me Before You" rel="bookmark">
+				<div class="post-thumbnail-wrapper">
+                
+                				 <img width="615" height="410" alt="Me Before You" class="attachment-vw_large wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/03/MeBeforeYou2.jpg"> 
+				
+									</div>
+
+				<div class="post-box-inner">
+                                					<h4 class="bannersubTitle">RELEASED : <span class="super-title">June 03, 2016</span></h4> 
+
+					<h3 class="title">
+						
+						<span>Me Before You</span>
+					</h3>
+					<span class="read-more label label-large">
+						More Information <i class="icon-entypo-right-open"></i>
+					</span>
+				</div>
+			</a>
+		</li>
+			<li>
+			<a href="http://thefancarpet.com/movies/theniceguys/" title="Permalink to The Nice Guys" rel="bookmark">
+				<div class="post-thumbnail-wrapper">
+                
+                				 <img width="615" height="410" alt="The Nice Guys" class="attachment-vw_large wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/03/TheNiceGuys1.jpg"> 
+				
+									</div>
+
+				<div class="post-box-inner">
+                                					<h4 class="bannersubTitle">RELEASED : <span class="super-title">June 03, 2016</span></h4> 
+
+					<h3 class="title">
+						
+						<span>The Nice Guys</span>
+					</h3>
+					<span class="read-more label label-large">
+						More Information <i class="icon-entypo-right-open"></i>
+					</span>
+				</div>
+			</a>
+		</li>
+			<li>
+			<a href="http://thefancarpet.com/movies/teenagemutantninjaturtles_outoftheshadows/" title="Permalink to Teenage Mutant Ninja Turtles: Out of the Shadows" rel="bookmark">
+				<div class="post-thumbnail-wrapper">
+                
+                				 <img width="615" height="410" alt="Teenage Mutant Ninja Turtles: Out of the Shadows" class="attachment-vw_large wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2015/12/TeenageMutantNinjaTurtles_OutOfTheShadows2.jpg"> 
+				
+									</div>
+
+				<div class="post-box-inner">
+                                					<h4 class="bannersubTitle">RELEASED : <span class="super-title">May 30, 2016</span></h4> 
+
+					<h3 class="title">
+						
+						<span>Teenage Mutant Ninja Turtles: Out of the Shadows</span>
+					</h3>
+					<span class="read-more label label-large">
+						More Information <i class="icon-entypo-right-open"></i>
+					</span>
+				</div>
+			</a>
+		</li>
+			<li>
+			<a href="http://thefancarpet.com/movies/warcraft_thebeginning/" title="Permalink to Warcraft: The Beginning" rel="bookmark">
+				<div class="post-thumbnail-wrapper">
+                
+                				 <img width="615" height="410" alt="Warcraft: The Beginning" class="attachment-vw_large wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2015/11/5WarcraftTheBeginning.jpg"> 
+				
+									</div>
+
+				<div class="post-box-inner">
+                                					<h4 class="bannersubTitle">RELEASED : <span class="super-title">May 30, 2016</span></h4> 
+
+					<h3 class="title">
+						
+						<span>Warcraft: The Beginning</span>
+					</h3>
+					<span class="read-more label label-large">
+						More Information <i class="icon-entypo-right-open"></i>
+					</span>
+				</div>
+			</a>
+		</li>
+		
+	</ul>
+</div>
+<div class="top-posts">
+	<div class="container">
+		<div class="row">
+			<a href="#" class="carousel-nav-prev"></a>
+			<a href="#" class="carousel-nav-next"></a>
+				<div class="top-posts-inner">
+				                     					<div class="post-box-wrapper  ">
+                   
+						<article class="post-297075 post-box post-box-headline">
+ 
+	<h3 class="title title-small"><a href="http://thefancarpet.com/movies/thefundamentalsofcaring/" title="Permalink to The Fundamentals of Caring" rel="bookmark">
+		The Fundamentals of Carin...    
+    </a></h3>
+	<div class="post-meta header-font">
+				      
+        
+		<a href="http://thefancarpet.com/movies/thefundamentalsofcaring/" class="post-date" title="Permalink to The Fundamentals of Caring" rel="bookmark">June 24, 2016</a>
+    
+	</div>
+	            <div class="post-thumbnail-wrapper vw-imgliquid">
+			<a href="http://thefancarpet.com/movies/thefundamentalsofcaring/" title="Permalink to The Fundamentals of Caring" rel="bookmark">
+            			<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/06/TheFundamentalsOfCaring4.jpg" >
+            
+			</a>
+            
+            </div>
+            
+</article>					</div>
+				                     					<div class="post-box-wrapper  ">
+                   
+						<article class="post-297313 post-box post-box-headline">
+ 
+	<h3 class="title title-small"><a href="http://thefancarpet.com/movies/diaryofachambermaid/" title="Permalink to Diary of a Chambermaid" rel="bookmark">
+	Diary of a Chambermaid    
+    </a></h3>
+	<div class="post-meta header-font">
+				      
+        
+		<a href="http://thefancarpet.com/movies/diaryofachambermaid/" class="post-date" title="Permalink to Diary of a Chambermaid" rel="bookmark">June 10, 2016</a>
+    
+	</div>
+	            <div class="post-thumbnail-wrapper vw-imgliquid">
+			<a href="http://thefancarpet.com/movies/diaryofachambermaid/" title="Permalink to Diary of a Chambermaid" rel="bookmark">
+            			<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/06/DiaryOfAChambermaid5.jpg" >
+            
+			</a>
+            
+            </div>
+            
+</article>					</div>
+				                     					<div class="post-box-wrapper  ">
+                   
+						<article class="post-286351 post-box post-box-headline">
+ 
+	<h3 class="title title-small"><a href="http://thefancarpet.com/movies/teenagemutantninjaturtles_outoftheshadows/" title="Permalink to Teenage Mutant Ninja Turtles: Out of the Shadows" rel="bookmark">
+		Teenage Mutant Ninja Turt...    
+    </a></h3>
+	<div class="post-meta header-font">
+				      
+        
+		<a href="http://thefancarpet.com/movies/teenagemutantninjaturtles_outoftheshadows/" class="post-date" title="Permalink to Teenage Mutant Ninja Turtles: Out of the Shadows" rel="bookmark">May 30, 2016</a>
+    
+	</div>
+	            <div class="post-thumbnail-wrapper vw-imgliquid">
+			<a href="http://thefancarpet.com/movies/teenagemutantninjaturtles_outoftheshadows/" title="Permalink to Teenage Mutant Ninja Turtles: Out of the Shadows" rel="bookmark">
+            			<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2015/12/TeenageMutantNinjaTurtles_OutOfTheShadows3.jpg" >
+            
+			</a>
+            
+            </div>
+            
+</article>					</div>
+				                     					<div class="post-box-wrapper  ">
+                   
+						<article class="post-297284 post-box post-box-headline">
+ 
+	<h3 class="title title-small"><a href="http://thefancarpet.com/movies/monstertrucks/" title="Permalink to Monster Trucks" rel="bookmark">
+	Monster Trucks    
+    </a></h3>
+	<div class="post-meta header-font">
+				      
+        
+		<a href="http://thefancarpet.com/movies/monstertrucks/" class="post-date" title="Permalink to Monster Trucks" rel="bookmark">February 03, 2017</a>
+    
+	</div>
+	            <div class="post-thumbnail-wrapper vw-imgliquid">
+			<a href="http://thefancarpet.com/movies/monstertrucks/" title="Permalink to Monster Trucks" rel="bookmark">
+            			<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/06/MonsterTrucks2.jpg" >
+            
+			</a>
+            
+            </div>
+            
+</article>					</div>
+				                     					<div class="post-box-wrapper  ">
+                   
+						<article class="post-297265 post-box post-box-headline">
+ 
+	<h3 class="title title-small"><a href="http://thefancarpet.com/movies/julieta/" title="Permalink to Julieta" rel="bookmark">
+	Julieta    
+    </a></h3>
+	<div class="post-meta header-font">
+				      
+        
+		<a href="http://thefancarpet.com/movies/julieta/" class="post-date" title="Permalink to Julieta" rel="bookmark">August 26, 2016</a>
+    
+	</div>
+	            <div class="post-thumbnail-wrapper vw-imgliquid">
+			<a href="http://thefancarpet.com/movies/julieta/" title="Permalink to Julieta" rel="bookmark">
+            			<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/06/Julieta10.jpg" >
+            
+			</a>
+            
+            </div>
+            
+</article>					</div>
+				                     					<div class="post-box-wrapper  ">
+                   
+						<article class="post-290505 post-box post-box-headline">
+ 
+	<h3 class="title title-small"><a href="http://thefancarpet.com/movies/petesdragon/" title="Permalink to Pete&#8217;s Dragon" rel="bookmark">
+	Pete&#8217;s Dragon    
+    </a></h3>
+	<div class="post-meta header-font">
+				      
+        
+		<a href="http://thefancarpet.com/movies/petesdragon/" class="post-date" title="Permalink to Pete&#8217;s Dragon" rel="bookmark">August 12, 2016</a>
+    
+	</div>
+	            <div class="post-thumbnail-wrapper vw-imgliquid">
+			<a href="http://thefancarpet.com/movies/petesdragon/" title="Permalink to Pete&#8217;s Dragon" rel="bookmark">
+            			<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/02/PetesDragon8.jpg" >
+            
+			</a>
+            
+            </div>
+            
+</article>					</div>
+				                     					<div class="post-box-wrapper  ">
+                   
+						<article class="post-292687 post-box post-box-headline">
+ 
+	<h3 class="title title-small"><a href="http://thefancarpet.com/movies/mebeforeyou/" title="Permalink to Me Before You" rel="bookmark">
+	Me Before You    
+    </a></h3>
+	<div class="post-meta header-font">
+				      
+        
+		<a href="http://thefancarpet.com/movies/mebeforeyou/" class="post-date" title="Permalink to Me Before You" rel="bookmark">June 03, 2016</a>
+    
+	</div>
+	            <div class="post-thumbnail-wrapper vw-imgliquid">
+			<a href="http://thefancarpet.com/movies/mebeforeyou/" title="Permalink to Me Before You" rel="bookmark">
+            			<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/03/MeBeforeYou4.jpg" >
+            
+			</a>
+            
+            </div>
+            
+</article>					</div>
+				                     					<div class="post-box-wrapper  ">
+                   
+						<article class="post-275690 post-box post-box-headline">
+ 
+	<h3 class="title title-small"><a href="http://thefancarpet.com/movies/therevenant/" title="Permalink to The Revenant" rel="bookmark">
+	The Revenant    
+    </a></h3>
+	<div class="post-meta header-font">
+				      
+        
+		<a href="http://thefancarpet.com/movies/therevenant/" class="post-date" title="Permalink to The Revenant" rel="bookmark">January 15, 2016</a>
+    
+	</div>
+	            <div class="post-thumbnail-wrapper vw-imgliquid">
+			<a href="http://thefancarpet.com/movies/therevenant/" title="Permalink to The Revenant" rel="bookmark">
+            			<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2015/06/TheRevenant27.jpg" >
+            
+			</a>
+            
+            </div>
+            
+</article>					</div>
+				                     					<div class="post-box-wrapper  ">
+                   
+						<article class="post-295920 post-box post-box-headline">
+ 
+	<h3 class="title title-small"><a href="http://thefancarpet.com/movies/nerve/" title="Permalink to Nerve" rel="bookmark">
+	Nerve    
+    </a></h3>
+	<div class="post-meta header-font">
+				      
+        
+		<a href="http://thefancarpet.com/movies/nerve/" class="post-date" title="Permalink to Nerve" rel="bookmark">August 12, 2016</a>
+    
+	</div>
+	            <div class="post-thumbnail-wrapper vw-imgliquid">
+			<a href="http://thefancarpet.com/movies/nerve/" title="Permalink to Nerve" rel="bookmark">
+            			<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/05/Nerve4.jpg" >
+            
+			</a>
+            
+            </div>
+            
+</article>					</div>
+				                     					<div class="post-box-wrapper  hidden-sm">
+                   
+						<article class="post-287934 post-box post-box-headline">
+ 
+	<h3 class="title title-small"><a href="http://thefancarpet.com/movies/learningtodrive/" title="Permalink to Learning to Drive" rel="bookmark">
+	Learning to Drive    
+    </a></h3>
+	<div class="post-meta header-font">
+				      
+        
+		<a href="http://thefancarpet.com/movies/learningtodrive/" class="post-date" title="Permalink to Learning to Drive" rel="bookmark">June 10, 2016</a>
+    
+	</div>
+	            <div class="post-thumbnail-wrapper vw-imgliquid">
+			<a href="http://thefancarpet.com/movies/learningtodrive/" title="Permalink to Learning to Drive" rel="bookmark">
+            			<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/01/LearningToDrive38.jpg" >
+            
+			</a>
+            
+            </div>
+            
+</article>					</div>
+								</div>
+		</div>
+	</div>
+</div>
+			
+						</div>
+					</div>
+		</div><div class="row vwpc-row"><div class="vwpc-section-latest">
+												<div class="col-sm-7 col-md-8">
+						<hr class="section-hr">
+									<h1 class="section-title title title-large">
+				FILM NEWS			</h1>
+			<p class="section-description">The Latest News from the Film Industry</p>		
+						<div class="row vw-isotope post-box-list">
+															<div class="post-box-wrapper col-sm-6"><article class="post-297290 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+					 <a href="http://thefancarpet.com/movie_news/half-term-wonderland-james-bobins-alice-through-the-looking-glass-is-the-uks-number-one-film-during-school-holidays/" title="Permalink to Half-Term Wonderland: James Bobin&#8217;s Alice Through the Looking Glass is the UK’s Number One Film During School Holidays" rel="bookmark">
+			            
+				<img width="398" height="329" src="http://thefancarpet.com/wp-content/uploads/2016/06/alicelookingglassboxoffice.jpg" class="attachment-vw_medium wp-post-image" alt="alicelookingglassboxoffice" />                            
+                            
+			</a>
+
+		</div>
+		<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/movie_news/half-term-wonderland-james-bobins-alice-through-the-looking-glass-is-the-uks-number-one-film-during-school-holidays/" title="Permalink to Half-Term Wonderland: James Bobin&#8217;s Alice Through the Looking Glass is the UK’s Number One Film During School Holidays" rel="bookmark">Half-Term Wonderland: James Bobin&#8217;s Alice Through the Looking Glass is the UK’s Number One Film During School Holidays</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/movie_news/half-term-wonderland-james-bobins-alice-through-the-looking-glass-is-the-uks-number-one-film-during-school-holidays/" class="post-date" title="Permalink to Half-Term Wonderland: James Bobin&#8217;s Alice Through the Looking Glass is the UK’s Number One Film During School Holidays" rel="bookmark">June 3, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">Proving to be a hit with audiences across the UK Disney’s ALICE THROUGH THE LOOKING GLASS has had families flocking to Wonderland to claim victory o</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/movie_news/half-term-wonderland-james-bobins-alice-through-the-looking-glass-is-the-uks-number-one-film-during-school-holidays/" title="Permalink to Half-Term Wonderland: James Bobin&#8217;s Alice Through the Looking Glass is the UK’s Number One Film During School Holidays" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/movie_news/half-term-wonderland-james-bobins-alice-through-the-looking-glass-is-the-uks-number-one-film-during-school-holidays/#comments" title="Permalink to Half-Term Wonderland: James Bobin&#8217;s Alice Through the Looking Glass is the UK’s Number One Film During School Holidays" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-297255 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+					 <a href="http://thefancarpet.com/movie_news/own-it-on-blu-ray-dvd-on-june-6-discover-the-journey-by-the-numbers-with-alejandro-gonzalez-inarritus-the-revenant/" title="Permalink to Own it on Blu-ray &amp; DVD on June 6 &#8211; Discover The Journey by the Numbers with Alejandro González Iñárritu’s The Revenant" rel="bookmark">
+			            
+				<img width="398" height="329" src="http://thefancarpet.com/wp-content/uploads/2016/06/revenantinfographicnews.jpg" class="attachment-vw_medium wp-post-image" alt="revenantinfographicnews" />                            
+                            
+			</a>
+
+		</div>
+		<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/movie_news/own-it-on-blu-ray-dvd-on-june-6-discover-the-journey-by-the-numbers-with-alejandro-gonzalez-inarritus-the-revenant/" title="Permalink to Own it on Blu-ray &amp; DVD on June 6 &#8211; Discover The Journey by the Numbers with Alejandro González Iñárritu’s The Revenant" rel="bookmark">Own it on Blu-ray &#038; DVD on June 6 &#8211; Discover The Journey by the Numbers with Alejandro González Iñárritu’s The Revenant</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/movie_news/own-it-on-blu-ray-dvd-on-june-6-discover-the-journey-by-the-numbers-with-alejandro-gonzalez-inarritus-the-revenant/" class="post-date" title="Permalink to Own it on Blu-ray &amp; DVD on June 6 &#8211; Discover The Journey by the Numbers with Alejandro González Iñárritu’s The Revenant" rel="bookmark">June 3, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">Academy Award® Winner Leonardo DiCaprio Stars In  Alejandro G. Iñárritu’s Cinematic Masterpiece – Winner of Three Oscars® Including Best Act</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/movie_news/own-it-on-blu-ray-dvd-on-june-6-discover-the-journey-by-the-numbers-with-alejandro-gonzalez-inarritus-the-revenant/" title="Permalink to Own it on Blu-ray &amp; DVD on June 6 &#8211; Discover The Journey by the Numbers with Alejandro González Iñárritu’s The Revenant" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/movie_news/own-it-on-blu-ray-dvd-on-june-6-discover-the-journey-by-the-numbers-with-alejandro-gonzalez-inarritus-the-revenant/#comments" title="Permalink to Own it on Blu-ray &amp; DVD on June 6 &#8211; Discover The Journey by the Numbers with Alejandro González Iñárritu’s The Revenant" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-297241 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+					 <a href="http://thefancarpet.com/movie_news/breaking-the-bank-in-cinemas-now-digital-download-june-6-and-dvd-june-20-the-hollywood-guide-to-banking/" title="Permalink to Breaking the Bank &#8211; In Cinemas Now, Digital Download June 6 and DVD June 20 &#8211; The Hollywood Guide to Banking" rel="bookmark">
+			            
+				<img width="398" height="329" src="http://thefancarpet.com/wp-content/uploads/2016/06/btbguidetobanking.jpg" class="attachment-vw_medium wp-post-image" alt="btbguidetobanking" />                            
+                            
+			</a>
+
+		</div>
+		<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/movie_news/breaking-the-bank-in-cinemas-now-digital-download-june-6-and-dvd-june-20-the-hollywood-guide-to-banking/" title="Permalink to Breaking the Bank &#8211; In Cinemas Now, Digital Download June 6 and DVD June 20 &#8211; The Hollywood Guide to Banking" rel="bookmark">Breaking the Bank &#8211; In Cinemas Now, Digital Download June 6 and DVD June 20 &#8211; The Hollywood Guide to Banking</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/movie_news/breaking-the-bank-in-cinemas-now-digital-download-june-6-and-dvd-june-20-the-hollywood-guide-to-banking/" class="post-date" title="Permalink to Breaking the Bank &#8211; In Cinemas Now, Digital Download June 6 and DVD June 20 &#8211; The Hollywood Guide to Banking" rel="bookmark">June 3, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">To celebrate its theatrical, digital, and DVD release in June, we take a look at the countless lessons we have learnt from Hollywood’s portrayal of </div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/movie_news/breaking-the-bank-in-cinemas-now-digital-download-june-6-and-dvd-june-20-the-hollywood-guide-to-banking/" title="Permalink to Breaking the Bank &#8211; In Cinemas Now, Digital Download June 6 and DVD June 20 &#8211; The Hollywood Guide to Banking" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/movie_news/breaking-the-bank-in-cinemas-now-digital-download-june-6-and-dvd-june-20-the-hollywood-guide-to-banking/#comments" title="Permalink to Breaking the Bank &#8211; In Cinemas Now, Digital Download June 6 and DVD June 20 &#8211; The Hollywood Guide to Banking" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-297227 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+					 <a href="http://thefancarpet.com/movie_news/virgin-witch-stalled-prey-siren-and-eden-lodge-brit-films-takes-centre-stage-in-horror-channels-june-line-up/" title="Permalink to Virgin Witch, Stalled, Prey, Siren and Eden Lodge: Brit films takes centre-stage in Horror Channel’s June line-up" rel="bookmark">
+			            
+				<img width="398" height="329" src="http://thefancarpet.com/wp-content/uploads/2016/06/horrorchanneljuneprem.jpg" class="attachment-vw_medium wp-post-image" alt="horrorchanneljuneprem" />                            
+                            
+			</a>
+
+		</div>
+		<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/movie_news/virgin-witch-stalled-prey-siren-and-eden-lodge-brit-films-takes-centre-stage-in-horror-channels-june-line-up/" title="Permalink to Virgin Witch, Stalled, Prey, Siren and Eden Lodge: Brit films takes centre-stage in Horror Channel’s June line-up" rel="bookmark">Virgin Witch, Stalled, Prey, Siren and Eden Lodge: Brit films takes centre-stage in Horror Channel’s June line-up</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/movie_news/virgin-witch-stalled-prey-siren-and-eden-lodge-brit-films-takes-centre-stage-in-horror-channels-june-line-up/" class="post-date" title="Permalink to Virgin Witch, Stalled, Prey, Siren and Eden Lodge: Brit films takes centre-stage in Horror Channel’s June line-up" rel="bookmark">June 3, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">British-made horror takes centre-stage as Horror Channel broadcasts five premieres during June, including the UK TV premiere of Christian James’ bri</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/movie_news/virgin-witch-stalled-prey-siren-and-eden-lodge-brit-films-takes-centre-stage-in-horror-channels-june-line-up/" title="Permalink to Virgin Witch, Stalled, Prey, Siren and Eden Lodge: Brit films takes centre-stage in Horror Channel’s June line-up" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/movie_news/virgin-witch-stalled-prey-siren-and-eden-lodge-brit-films-takes-centre-stage-in-horror-channels-june-line-up/#comments" title="Permalink to Virgin Witch, Stalled, Prey, Siren and Eden Lodge: Brit films takes centre-stage in Horror Channel’s June line-up" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-297211 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+					 <a href="http://thefancarpet.com/movie_news/suits-the-complete-fifth-season-own-it-on-blu-ray-and-dvd-on-june-6-best-moments-in-suits/" title="Permalink to Suits: The Complete Fifth Season &#8211; Own it on Blu-ray and DVD on June 6 &#8211; Best Moments in Suits" rel="bookmark">
+			            
+				<img width="398" height="329" src="http://thefancarpet.com/wp-content/uploads/2016/06/suitsseason5top.jpg" class="attachment-vw_medium wp-post-image" alt="suitsseason5top" />                            
+                            
+			</a>
+
+		</div>
+		<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/movie_news/suits-the-complete-fifth-season-own-it-on-blu-ray-and-dvd-on-june-6-best-moments-in-suits/" title="Permalink to Suits: The Complete Fifth Season &#8211; Own it on Blu-ray and DVD on June 6 &#8211; Best Moments in Suits" rel="bookmark">Suits: The Complete Fifth Season &#8211; Own it on Blu-ray and DVD on June 6 &#8211; Best Moments in Suits</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/movie_news/suits-the-complete-fifth-season-own-it-on-blu-ray-and-dvd-on-june-6-best-moments-in-suits/" class="post-date" title="Permalink to Suits: The Complete Fifth Season &#8211; Own it on Blu-ray and DVD on June 6 &#8211; Best Moments in Suits" rel="bookmark">June 3, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">This season sees more twists and turns than ever before, making it a must watch for all fans. To celebrate its release we look back at some of the sho</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/movie_news/suits-the-complete-fifth-season-own-it-on-blu-ray-and-dvd-on-june-6-best-moments-in-suits/" title="Permalink to Suits: The Complete Fifth Season &#8211; Own it on Blu-ray and DVD on June 6 &#8211; Best Moments in Suits" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/movie_news/suits-the-complete-fifth-season-own-it-on-blu-ray-and-dvd-on-june-6-best-moments-in-suits/#comments" title="Permalink to Suits: The Complete Fifth Season &#8211; Own it on Blu-ray and DVD on June 6 &#8211; Best Moments in Suits" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-297207 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+					 <a href="http://thefancarpet.com/movie_news/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/" title="Permalink to Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference" rel="bookmark">
+			            
+				<img width="398" height="329" src="http://thefancarpet.com/wp-content/uploads/2016/06/niceguyspcnews.jpg" class="attachment-vw_medium wp-post-image" alt="niceguyspcnews" />                            
+                            
+			</a>
+
+		</div>
+		<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/movie_news/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/" title="Permalink to Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference" rel="bookmark">Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/movie_news/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/" class="post-date" title="Permalink to Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference" rel="bookmark">June 3, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">The Fan Carpet’s Jessen Aroonachellum in association with Acting Hour was in attendance at the European Press Conference attended by Producer Joel S</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/movie_news/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/" title="Permalink to Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/movie_news/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/#comments" title="Permalink to Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+													</div>
+
+											</div>
+					<div class="col-sm-5 col-md-4">
+						<aside class="sidebar-wrapper">
+							<div class="sidebar-inner">
+								<hr class="section-hr">
+								<div id="search-5" class="widget vw-sidebar-custom-Home1 widget_search"><form action="http://thefancarpet.com/" id="searchform" class="searchform" method="get">
+	<input type="text" id="s" name="s" value="Search" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';" autocomplete="off" />
+	<button class="search-button"><i class="icon-entypo-search"></i></button>
+</form></div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- TheFanCarpet.Com --> <ins class="adsbygoogle"      style="display:inline-block;width:300px;height:250px"      data-ad-client="ca-pub-2171876798554025"      data-ad-slot="1734468067"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script><div id="text-10" class="widget vw-sidebar-custom-Home1 widget_text">			<div class="textwidget"></div>
+		</div><div id="vw_widget_custom_text-4" class="widget vw-sidebar-custom-Home1 widget_vw_widget_custom_text"><h3 class="widget-title"><span class="super-title">WHAT DID YOU THINK?</span>LET&#8217;S TALK ABOUT IT</h3>			<!-- BEGIN CBOX - www.cbox.ws - v4 -->
+<div id="cboxdiv" style="position: relative; margin: 0 auto; width: 332px; font-size: 0;">
+<div style="position: relative; height: 325px; overflow: auto; overflow-y: auto; -webkit-overflow-scrolling: touch; border: 0px solid;"><iframe src="http://www3.cbox.ws/box/?boxid=3410049&boxtag=95lqde&sec=main" marginheight="0" marginwidth="0" frameborder="0" width="100%" height="100%" scrolling="auto" allowtransparency="yes" name="cboxmain3-3410049" id="cboxmain3-3410049"></iframe></div>
+<div style="position: relative; height: 82px; overflow: hidden; border: 0px solid; border-top: 0px;"><iframe src="http://www3.cbox.ws/box/?boxid=3410049&boxtag=95lqde&sec=form" marginheight="0" marginwidth="0" frameborder="0" width="100%" height="100%" scrolling="no" allowtransparency="yes" name="cboxform3-3410049" id="cboxform3-3410049"></iframe></div>
+</div>
+<!-- END CBOX -->			</div><div id="vw_widget_categories-3" class="widget vw-sidebar-custom-Home1 widget_vw_widget_categories"><h3 class="widget-title"><span class="super-title">Download the Latest High Quality</span>Film Stills</h3><ul>			<li class="category  clearfix">
+				
+				<div class="category-title title title-small header-font">
+					<a href="http://thefancarpet.com/movies/breakingthebank/?id=125595" title="Permalink to Breaking the Bank" rel="bookmark">
+						Breaking the Bank					</a>
+				</div>
+
+				<!-- 
+				 				-->
+
+								<div class="category-featured-posts">
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/breakingthebank/?id=125595" title="Permalink to Breaking the Bank" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/05/18BreakingTheBank.jpg" >
+                            
+                            
+						</a>
+					</div>
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/breakingthebank/?id=125595" title="Permalink to Breaking the Bank" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/05/19BreakingTheBank.jpg" >
+                            
+                            
+						</a>
+					</div>
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/breakingthebank/?id=125595" title="Permalink to Breaking the Bank" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/05/20BreakingTheBank.jpg" >
+                            
+                            
+						</a>
+					</div>
+									</div>
+							</li>
+					<li class="category  clearfix">
+				
+				<div class="category-title title title-small header-font">
+					<a href="http://thefancarpet.com/movies/race/?id=43" title="Permalink to Race" rel="bookmark">
+						Race					</a>
+				</div>
+
+				<!-- 
+				 				-->
+
+								<div class="category-featured-posts">
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/race/?id=43" title="Permalink to Race" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/04/Race9.jpg" >
+                            
+                            
+						</a>
+					</div>
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/race/?id=43" title="Permalink to Race" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/04/Race10.jpg" >
+                            
+                            
+						</a>
+					</div>
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/race/?id=43" title="Permalink to Race" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/04/Race11.jpg" >
+                            
+                            
+						</a>
+					</div>
+									</div>
+							</li>
+					<li class="category  clearfix">
+				
+				<div class="category-title title title-small header-font">
+					<a href="http://thefancarpet.com/movies/mebeforeyou/?id=43" title="Permalink to Me Before You" rel="bookmark">
+						Me Before You					</a>
+				</div>
+
+				<!-- 
+				 				-->
+
+								<div class="category-featured-posts">
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/mebeforeyou/?id=43" title="Permalink to Me Before You" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/03/MeBeforeYou2.jpg" >
+                            
+                            
+						</a>
+					</div>
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/mebeforeyou/?id=43" title="Permalink to Me Before You" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/03/MeBeforeYou3.jpg" >
+                            
+                            
+						</a>
+					</div>
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/mebeforeyou/?id=43" title="Permalink to Me Before You" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/03/MeBeforeYou4.jpg" >
+                            
+                            
+						</a>
+					</div>
+									</div>
+							</li>
+					<li class="category  clearfix">
+				
+				<div class="category-title title title-small header-font">
+					<a href="http://thefancarpet.com/movies/theniceguys/?id=43" title="Permalink to The Nice Guys" rel="bookmark">
+						The Nice Guys					</a>
+				</div>
+
+				<!-- 
+				 				-->
+
+								<div class="category-featured-posts">
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/theniceguys/?id=43" title="Permalink to The Nice Guys" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/03/16TheNiceGuys.jpg" >
+                            
+                            
+						</a>
+					</div>
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/theniceguys/?id=43" title="Permalink to The Nice Guys" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/03/17TheNiceGuys.jpg" >
+                            
+                            
+						</a>
+					</div>
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/theniceguys/?id=43" title="Permalink to The Nice Guys" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/03/18TheNiceGuys.jpg" >
+                            
+                            
+						</a>
+					</div>
+									</div>
+							</li>
+					<li class="category  clearfix">
+				
+				<div class="category-title title title-small header-font">
+					<a href="http://thefancarpet.com/movies/teenagemutantninjaturtles_outoftheshadows/?id=43" title="Permalink to Teenage Mutant Ninja Turtles: Out of the Shadows" rel="bookmark">
+						Teenage Mutant Ninja Turtles: Out of the Shadows					</a>
+				</div>
+
+				<!-- 
+				 				-->
+
+								<div class="category-featured-posts">
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/teenagemutantninjaturtles_outoftheshadows/?id=43" title="Permalink to Teenage Mutant Ninja Turtles: Out of the Shadows" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2015/12/TeenageMutantNinjaTurtles_OutOfTheShadows1.jpg" >
+                            
+                            
+						</a>
+					</div>
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/teenagemutantninjaturtles_outoftheshadows/?id=43" title="Permalink to Teenage Mutant Ninja Turtles: Out of the Shadows" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2015/12/TeenageMutantNinjaTurtles_OutOfTheShadows2.jpg" >
+                            
+                            
+						</a>
+					</div>
+										<div class="category-featured-post vw-imgliquid">
+						<a href="http://thefancarpet.com/movies/teenagemutantninjaturtles_outoftheshadows/?id=43" title="Permalink to Teenage Mutant Ninja Turtles: Out of the Shadows" rel="bookmark">
+														<img width="360" height="200" alt="5914412293_6e4977ea79_o" class="attachment-vw_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2015/12/TeenageMutantNinjaTurtles_OutOfTheShadows3.jpg" >
+                            
+                            
+						</a>
+					</div>
+									</div>
+							</li>
+		</ul></div>							</div>
+						</aside>
+					</div>
+				
+			</div></div><div class="row vwpc-row"><div class="vwpc-section-latest_format">
+												<div class="col-sm-12">
+						<hr class="section-hr">
+									<h1 class="section-title title title-large">
+				SPOTLIGHT VIDEOS			</h1>
+			<p class="section-description">Watch our latest Interviews, the latest trailers and clips</p>		
+						<div class="row vw-isotope post-box-list">
+															<div class="post-box-wrapper col-sm-4"><article class="post-297281 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+						<a class="swipebox swipebox-video" href="https://www.youtube.com/watch?v=moZIiYxUsGw" title="Permalink to Trailer Alert: Monster Trucks | Paramount Pictures" rel="youtube">
+				<span class="post-play-video"></span>
+			            
+				     <img src="http://img.youtube.com/vi/moZIiYxUsGw/0.jpg" />
+                            
+                            
+			</a>
+
+		</div>
+		<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+			<div class="label label-light label-small" title="Video Post"><i class="icon-entypo-play"></i></div><a class="label label-small" href="http://thefancarpet.com/category/spotlight/" title="View all posts in spotlight" rel="category">spotlight</a>		</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/trailer-alert-monster-trucks-paramount-pictures/" title="Permalink to Trailer Alert: Monster Trucks | Paramount Pictures" rel="bookmark">Trailer Alert: Monster Trucks | Paramount Pictures</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/trailer-alert-monster-trucks-paramount-pictures/" class="post-date" title="Permalink to Trailer Alert: Monster Trucks | Paramount Pictures" rel="bookmark">June 3, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">Starring: Lucas Till, Jane Levy, Barry Pepper, Amy Ryan, Rob Lowe, Danny Glover, Thomas Lennon and Holt McCallany. In Cinemas February 3 2017.</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/trailer-alert-monster-trucks-paramount-pictures/" title="Permalink to Trailer Alert: Monster Trucks | Paramount Pictures" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/trailer-alert-monster-trucks-paramount-pictures/#comments" title="Permalink to Trailer Alert: Monster Trucks | Paramount Pictures" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-4"><article class="post-297236 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+						<a class="swipebox swipebox-video" href="https://www.youtube.com/watch?v=7OvT8sFiQHg" title="Permalink to Press Conference: Shane Black, Russell Crowe, Matt Bomer, Joel Silver | The Nice Guys" rel="youtube">
+				<span class="post-play-video"></span>
+			            
+				     <img src="http://img.youtube.com/vi/7OvT8sFiQHg/0.jpg" />
+                            
+                            
+			</a>
+
+		</div>
+		<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+			<div class="label label-light label-small" title="Video Post"><i class="icon-entypo-play"></i></div><a class="label label-small" href="http://thefancarpet.com/category/spotlight/" title="View all posts in spotlight" rel="category">spotlight</a>		</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/press-conference-shane-black-russell-crowe-matt-bomer-joel-silver-the-nice-guys/" title="Permalink to Press Conference: Shane Black, Russell Crowe, Matt Bomer, Joel Silver | The Nice Guys" rel="bookmark">Press Conference: Shane Black, Russell Crowe, Matt Bomer, Joel Silver | The Nice Guys</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/press-conference-shane-black-russell-crowe-matt-bomer-joel-silver-the-nice-guys/" class="post-date" title="Permalink to Press Conference: Shane Black, Russell Crowe, Matt Bomer, Joel Silver | The Nice Guys" rel="bookmark">June 3, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">The Fan Carpet&#8217;s Jessen Aroonachellum was in attendance with Joel Silver, Shane Black, Matt Bomer and Russell Crowe. In Cinemas Now.</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/press-conference-shane-black-russell-crowe-matt-bomer-joel-silver-the-nice-guys/" title="Permalink to Press Conference: Shane Black, Russell Crowe, Matt Bomer, Joel Silver | The Nice Guys" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/press-conference-shane-black-russell-crowe-matt-bomer-joel-silver-the-nice-guys/#comments" title="Permalink to Press Conference: Shane Black, Russell Crowe, Matt Bomer, Joel Silver | The Nice Guys" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-4"><article class="post-297192 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+						<a class="swipebox swipebox-video" href="https://www.youtube.com/watch?v=BgIo3NqAWDY" title="Permalink to European Premiere: Emilia Clarke, Jenna Coleman, Matthew Lewis | Me Before You" rel="youtube">
+				<span class="post-play-video"></span>
+			            
+				     <img src="http://img.youtube.com/vi/BgIo3NqAWDY/0.jpg" />
+                            
+                            
+			</a>
+
+		</div>
+		<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+			<div class="label label-light label-small" title="Video Post"><i class="icon-entypo-play"></i></div><a class="label label-small" href="http://thefancarpet.com/category/spotlight/" title="View all posts in spotlight" rel="category">spotlight</a>		</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/european-premiere-emilia-clarke-jenna-coleman-matthew-lewis-me-before-you/" title="Permalink to European Premiere: Emilia Clarke, Jenna Coleman, Matthew Lewis | Me Before You" rel="bookmark">European Premiere: Emilia Clarke, Jenna Coleman, Matthew Lewis | Me Before You</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/european-premiere-emilia-clarke-jenna-coleman-matthew-lewis-me-before-you/" class="post-date" title="Permalink to European Premiere: Emilia Clarke, Jenna Coleman, Matthew Lewis | Me Before You" rel="bookmark">June 2, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">The Fan Carpet&#8217;s Jayne Thorpe spoke to Emilia Clarke, Jenna-Louise Coleman, Jojo Moyes, Matthew Lewis and more. In Cinemas June 3.</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/european-premiere-emilia-clarke-jenna-coleman-matthew-lewis-me-before-you/" title="Permalink to European Premiere: Emilia Clarke, Jenna Coleman, Matthew Lewis | Me Before You" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/european-premiere-emilia-clarke-jenna-coleman-matthew-lewis-me-before-you/#comments" title="Permalink to European Premiere: Emilia Clarke, Jenna Coleman, Matthew Lewis | Me Before You" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+													</div>
+
+											</div>
+				
+			</div></div><div class="row vwpc-row"><div class="vwpc-section-latest">
+												<div class="col-sm-7 col-md-8">
+						<hr class="section-hr">
+									<h1 class="section-title title title-large">
+				LATEST INTERVIEWS			</h1>
+			<p class="section-description">Read our Latest Interviews</p>		
+						<div class="row vw-isotope post-box-list">
+															<div class="post-box-wrapper col-sm-6"><article class="post-297201 post-box fly-in animated-content post-box-large-thumbnail">
+	<div class="home-post-image-banner">
+		<a href="http://thefancarpet.com/interview/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/" title="Permalink to Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference" rel="bookmark">
+        <img src="http://thefancarpet.com/wp-content/uploads/2016/06/theniceguyspc.jpg"/>
+        </a></div>
+        
+         <div class="post-categories clearfix">
+<a rel="category" title="View all posts in spotlight" href="http://thefancarpet.com/interviews" class="label label-small">INTERVIEWS</a></div>
+    
+    	<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/interview/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/" title="Permalink to Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference" rel="bookmark">Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/interview/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/" class="post-date" title="Permalink to Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference" rel="bookmark">June 3, 2016</a>
+		</div>
+		
+		<div class="post-excerpt "> From the filmmakers behind the iconic Lethal Weapon series and Kiss Kiss Bang Bang comes summer 2016 release THE NICE GUYS, starring Hollywood all-s</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/interview/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/" title="Permalink to Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/interview/joel-silver-russell-crowe-matt-bomer-and-shane-black-talk-about-the-nice-guys-at-the-european-press-conference/#comments" title="Permalink to Joel Silver, Russell Crowe, Matt Bomer and Shane Black talk about The Nice Guys at the European Press Conference" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-297037 post-box fly-in animated-content post-box-large-thumbnail">
+	<div class="home-post-image-banner">
+		<a href="http://thefancarpet.com/interview/better-when-im-dancin-a-conversation-with-multi-platinum-superstar-meghan-trainor/" title="Permalink to Better When I’m Dancin’: A Conversation with Multi Platinum superstar Meghan Trainor" rel="bookmark">
+        <img src="http://thefancarpet.com/wp-content/uploads/2016/05/meghansnoopyintmain.jpg"/>
+        </a></div>
+        
+         <div class="post-categories clearfix">
+<a rel="category" title="View all posts in spotlight" href="http://thefancarpet.com/interviews" class="label label-small">INTERVIEWS</a></div>
+    
+    	<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/interview/better-when-im-dancin-a-conversation-with-multi-platinum-superstar-meghan-trainor/" title="Permalink to Better When I’m Dancin’: A Conversation with Multi Platinum superstar Meghan Trainor" rel="bookmark">Better When I’m Dancin’: A Conversation with Multi Platinum superstar Meghan Trainor</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/interview/better-when-im-dancin-a-conversation-with-multi-platinum-superstar-meghan-trainor/" class="post-date" title="Permalink to Better When I’m Dancin’: A Conversation with Multi Platinum superstar Meghan Trainor" rel="bookmark">May 31, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">Charlie Brown, Snoopy, Lucy, Linus and the rest of the beloved “Peanuts” gang make their big-screen debut, like they’ve never been seen before, </div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/interview/better-when-im-dancin-a-conversation-with-multi-platinum-superstar-meghan-trainor/" title="Permalink to Better When I’m Dancin’: A Conversation with Multi Platinum superstar Meghan Trainor" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/interview/better-when-im-dancin-a-conversation-with-multi-platinum-superstar-meghan-trainor/#comments" title="Permalink to Better When I’m Dancin’: A Conversation with Multi Platinum superstar Meghan Trainor" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-297031 post-box fly-in animated-content post-box-large-thumbnail">
+	<div class="home-post-image-banner">
+		<a href="http://thefancarpet.com/interview/remembering-a-legend-a-conversation-with-jeannie-schulz/" title="Permalink to Remembering a Legend: A Conversation with Jeannie Schulz" rel="bookmark">
+        <img src="http://thefancarpet.com/wp-content/uploads/2016/05/jeanniepeanutsqamain.jpg"/>
+        </a></div>
+        
+         <div class="post-categories clearfix">
+<a rel="category" title="View all posts in spotlight" href="http://thefancarpet.com/interviews" class="label label-small">INTERVIEWS</a></div>
+    
+    	<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/interview/remembering-a-legend-a-conversation-with-jeannie-schulz/" title="Permalink to Remembering a Legend: A Conversation with Jeannie Schulz" rel="bookmark">Remembering a Legend: A Conversation with Jeannie Schulz</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/interview/remembering-a-legend-a-conversation-with-jeannie-schulz/" class="post-date" title="Permalink to Remembering a Legend: A Conversation with Jeannie Schulz" rel="bookmark">May 31, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">Charlie Brown, Snoopy, Lucy, Linus and the rest of the beloved “Peanuts” gang make their big-screen debut, like they’ve never been seen before, </div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/interview/remembering-a-legend-a-conversation-with-jeannie-schulz/" title="Permalink to Remembering a Legend: A Conversation with Jeannie Schulz" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/interview/remembering-a-legend-a-conversation-with-jeannie-schulz/#comments" title="Permalink to Remembering a Legend: A Conversation with Jeannie Schulz" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-297025 post-box fly-in animated-content post-box-large-thumbnail">
+	<div class="home-post-image-banner">
+		<a href="http://thefancarpet.com/interview/bringing-the-legend-to-the-big-screen-a-conversation-with-craig-schulz/" title="Permalink to Bringing the Legend to the Big Screen: A Conversation with Craig Schulz" rel="bookmark">
+        <img src="http://thefancarpet.com/wp-content/uploads/2016/05/craigsnoopyqamain.jpg"/>
+        </a></div>
+        
+         <div class="post-categories clearfix">
+<a rel="category" title="View all posts in spotlight" href="http://thefancarpet.com/interviews" class="label label-small">INTERVIEWS</a></div>
+    
+    	<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/interview/bringing-the-legend-to-the-big-screen-a-conversation-with-craig-schulz/" title="Permalink to Bringing the Legend to the Big Screen: A Conversation with Craig Schulz" rel="bookmark">Bringing the Legend to the Big Screen: A Conversation with Craig Schulz</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/interview/bringing-the-legend-to-the-big-screen-a-conversation-with-craig-schulz/" class="post-date" title="Permalink to Bringing the Legend to the Big Screen: A Conversation with Craig Schulz" rel="bookmark">May 31, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">Charlie Brown, Snoopy, Lucy, Linus and the rest of the beloved “Peanuts” gang make their big-screen debut, like they’ve never been seen before, </div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/interview/bringing-the-legend-to-the-big-screen-a-conversation-with-craig-schulz/" title="Permalink to Bringing the Legend to the Big Screen: A Conversation with Craig Schulz" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/interview/bringing-the-legend-to-the-big-screen-a-conversation-with-craig-schulz/#comments" title="Permalink to Bringing the Legend to the Big Screen: A Conversation with Craig Schulz" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-297003 post-box fly-in animated-content post-box-large-thumbnail">
+	<div class="home-post-image-banner">
+		<a href="http://thefancarpet.com/interview/exclusive-charting-a-post-apocalyptic-landscape-alfie-stewart-jennie-eggleton-and-frazer-alexander-discuss-tear-me-apart/" title="Permalink to Exclusive: Charting a Post-Apocalyptic Landscape: Alfie Stewart, Jennie Eggleton and Frazer Alexander discuss TEAR ME APART" rel="bookmark">
+        <img src="http://thefancarpet.com/wp-content/uploads/2016/05/tearmeapartqamain.jpg"/>
+        </a></div>
+        
+         <div class="post-categories clearfix">
+<a rel="category" title="View all posts in spotlight" href="http://thefancarpet.com/interviews" class="label label-small">INTERVIEWS</a></div>
+    
+    	<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/interview/exclusive-charting-a-post-apocalyptic-landscape-alfie-stewart-jennie-eggleton-and-frazer-alexander-discuss-tear-me-apart/" title="Permalink to Exclusive: Charting a Post-Apocalyptic Landscape: Alfie Stewart, Jennie Eggleton and Frazer Alexander discuss TEAR ME APART" rel="bookmark">Exclusive: Charting a Post-Apocalyptic Landscape: Alfie Stewart, Jennie Eggleton and Frazer Alexander discuss TEAR ME APART</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/interview/exclusive-charting-a-post-apocalyptic-landscape-alfie-stewart-jennie-eggleton-and-frazer-alexander-discuss-tear-me-apart/" class="post-date" title="Permalink to Exclusive: Charting a Post-Apocalyptic Landscape: Alfie Stewart, Jennie Eggleton and Frazer Alexander discuss TEAR ME APART" rel="bookmark">May 31, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">&nbsp; Living in a cave in a barren part of the Cornish landscape, two brothers turn to cannibalism to survive. Although the eldest (played by ...</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/interview/exclusive-charting-a-post-apocalyptic-landscape-alfie-stewart-jennie-eggleton-and-frazer-alexander-discuss-tear-me-apart/" title="Permalink to Exclusive: Charting a Post-Apocalyptic Landscape: Alfie Stewart, Jennie Eggleton and Frazer Alexander discuss TEAR ME APART" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/interview/exclusive-charting-a-post-apocalyptic-landscape-alfie-stewart-jennie-eggleton-and-frazer-alexander-discuss-tear-me-apart/#comments" title="Permalink to Exclusive: Charting a Post-Apocalyptic Landscape: Alfie Stewart, Jennie Eggleton and Frazer Alexander discuss TEAR ME APART" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-296974 post-box fly-in animated-content post-box-large-thumbnail">
+	<div class="home-post-image-banner">
+		<a href="http://thefancarpet.com/interview/joining-the-ride-along-world-a-conversation-with-benjamin-bratt/" title="Permalink to Joining the Ride Along World: A Conversation with Benjamin Bratt" rel="bookmark">
+        <img src="http://thefancarpet.com/wp-content/uploads/2016/05/benbrattintmain.jpg"/>
+        </a></div>
+        
+         <div class="post-categories clearfix">
+<a rel="category" title="View all posts in spotlight" href="http://thefancarpet.com/interviews" class="label label-small">INTERVIEWS</a></div>
+    
+    	<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/interview/joining-the-ride-along-world-a-conversation-with-benjamin-bratt/" title="Permalink to Joining the Ride Along World: A Conversation with Benjamin Bratt" rel="bookmark">Joining the Ride Along World: A Conversation with Benjamin Bratt</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/interview/joining-the-ride-along-world-a-conversation-with-benjamin-bratt/" class="post-date" title="Permalink to Joining the Ride Along World: A Conversation with Benjamin Bratt" rel="bookmark">May 30, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">The Brothers-In-Law are back. In Ride Along 2, Ice Cube and Kevin Hart reteam to take down Miami drug lord, Antonio Pope (Benjamin Bratt), in ...</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/interview/joining-the-ride-along-world-a-conversation-with-benjamin-bratt/" title="Permalink to Joining the Ride Along World: A Conversation with Benjamin Bratt" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/interview/joining-the-ride-along-world-a-conversation-with-benjamin-bratt/#comments" title="Permalink to Joining the Ride Along World: A Conversation with Benjamin Bratt" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+													</div>
+
+											</div>
+					<div class="col-sm-5 col-md-4">
+						<aside class="sidebar-wrapper">
+							<div class="sidebar-inner">
+								<hr class="section-hr">
+								<div id="vw_widget_authors-3" class="widget vw-sidebar-custom-Home3 widget_vw_widget_authors"><h3 class="widget-title">OUR CONTRIBUTORS</h3><ul class="clearfix">			<li>
+				<a href="http://thefancarpet.com/author/marcjali/" title="Permalink to Admin" rel="bookmark">
+					<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-160x160.jpg' class='avatar avatar-160 photo' height='160' width='160' />				</a>
+			</li>
+					<li>
+				<a href="http://thefancarpet.com/author/admin/" title="Permalink to admin" rel="bookmark">
+					<img alt='admin' src='http://thefancarpet.com/wp-content/uploads/2015/05/admin_avatar_1431412038-160x160.jpg' class='avatar avatar-160 photo' height='160' width='160' />				</a>
+			</li>
+					<li>
+				<a href="http://thefancarpet.com/author/jess/" title="Permalink to Jessica Alken" rel="bookmark">
+					<img alt='Jessica Alken' src='http://thefancarpet.com/wp-content/uploads/2015/05/JessicaAlken_avatar_1432829590-160x160.jpg' class='avatar avatar-160 photo' height='160' width='160' />				</a>
+			</li>
+		</ul></div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- TheFanCarpet.Com --> <ins class="adsbygoogle"      style="display:inline-block;width:300px;height:250px"      data-ad-client="ca-pub-2171876798554025"      data-ad-slot="1734468067"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script><div id="text-14" class="widget vw-sidebar-custom-Home3 widget_text">			<div class="textwidget"></div>
+		</div><div id="vw_widget_review_posts-2" class="widget vw-sidebar-custom-Home3 widget_vw_widget_review_posts"><h3 class="widget-title"><span class="super-title">Read Our Latest</span>REVIEWS</h3><div class="post-box-list">
+
+       <article class="post-297185 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+	
+	    
+			<div class="post-thumbnail-wrapper">
+				<a href="http://thefancarpet.com/reviews/theniceguys/" title="Permalink to The Nice Guys(2016)" rel="bookmark">
+				
+                     <img width="360" height="360" alt="8586312056_cf1e6e3b65_o" class="attachment-vw_square_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/06/TheNiceGuys_review.jpg">
+				</a>
+                
+			</div>
+		
+
+		<h3 class="title title-small"><a href="http://thefancarpet.com/reviews/theniceguys/" title="Permalink to The Nice Guys(2016)" rel="bookmark">The Nice Guys(2016)</a></h3>
+		<div class="post-meta header-font">
+						<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/theniceguys/" class="post-date" title="Permalink to The Nice Guys(2016)" rel="bookmark">June 2, 2016</a>
+		</div>
+		
+		<div class="post-categories clearfix">
+			            <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>3.5</div><a rel="category" title="View all posts in Review" href="http://thefancarpet.com/reviews/theniceguys/" class="label label-small">Review</a>
+		</div>
+		
+</article>
+
+       <article class="post-297181 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+	
+	    
+			<div class="post-thumbnail-wrapper">
+				<a href="http://thefancarpet.com/reviews/breakingthebank/" title="Permalink to Breaking the Bank(2016)" rel="bookmark">
+				
+                     <img width="360" height="360" alt="8586312056_cf1e6e3b65_o" class="attachment-vw_square_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/06/BreakingTheBank_review.jpg">
+				</a>
+                
+			</div>
+		
+
+		<h3 class="title title-small"><a href="http://thefancarpet.com/reviews/breakingthebank/" title="Permalink to Breaking the Bank(2016)" rel="bookmark">Breaking the Bank(2016)</a></h3>
+		<div class="post-meta header-font">
+						<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/breakingthebank/" class="post-date" title="Permalink to Breaking the Bank(2016)" rel="bookmark">June 2, 2016</a>
+		</div>
+		
+		<div class="post-categories clearfix">
+			            <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>2.5</div><a rel="category" title="View all posts in Review" href="http://thefancarpet.com/reviews/breakingthebank/" class="label label-small">Review</a>
+		</div>
+		
+</article>
+
+       <article class="post-296997 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+	
+	    
+			<div class="post-thumbnail-wrapper">
+				<a href="http://thefancarpet.com/reviews/mebeforeyou/" title="Permalink to Me Before You(2016)" rel="bookmark">
+				
+                     <img width="360" height="360" alt="8586312056_cf1e6e3b65_o" class="attachment-vw_square_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/05/MeBeforeYou_review.jpg">
+				</a>
+                
+			</div>
+		
+
+		<h3 class="title title-small"><a href="http://thefancarpet.com/reviews/mebeforeyou/" title="Permalink to Me Before You(2016)" rel="bookmark">Me Before You(2016)</a></h3>
+		<div class="post-meta header-font">
+						<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/mebeforeyou/" class="post-date" title="Permalink to Me Before You(2016)" rel="bookmark">May 31, 2016</a>
+		</div>
+		
+		<div class="post-categories clearfix">
+			            <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>4</div><a rel="category" title="View all posts in Review" href="http://thefancarpet.com/reviews/mebeforeyou/" class="label label-small">Review</a>
+		</div>
+		
+</article>
+
+       <article class="post-296991 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+	
+	    
+			<div class="post-thumbnail-wrapper">
+				<a href="http://thefancarpet.com/reviews/13hours_thesecretsoldiersofbenghazi/" title="Permalink to 13 Hours: The Secret Soldiers of Benghazi(2016)" rel="bookmark">
+				
+                     <img width="360" height="360" alt="8586312056_cf1e6e3b65_o" class="attachment-vw_square_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/05/13-Hours_TheSecretSoldiersOfBenghazi_review.jpg">
+				</a>
+                
+			</div>
+		
+
+		<h3 class="title title-small"><a href="http://thefancarpet.com/reviews/13hours_thesecretsoldiersofbenghazi/" title="Permalink to 13 Hours: The Secret Soldiers of Benghazi(2016)" rel="bookmark">13 Hours: The Secret Soldiers of Benghazi(2016)</a></h3>
+		<div class="post-meta header-font">
+						<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/13hours_thesecretsoldiersofbenghazi/" class="post-date" title="Permalink to 13 Hours: The Secret Soldiers of Benghazi(2016)" rel="bookmark">May 31, 2016</a>
+		</div>
+		
+		<div class="post-categories clearfix">
+			            <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>4</div><a rel="category" title="View all posts in Review" href="http://thefancarpet.com/reviews/13hours_thesecretsoldiersofbenghazi/" class="label label-small">Review</a>
+		</div>
+		
+</article>
+
+       <article class="post-296960 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+	
+	    
+			<div class="post-thumbnail-wrapper">
+				<a href="http://thefancarpet.com/reviews/teenagemutantninjaturtles_outoftheshadows/" title="Permalink to Teenage Mutant Ninja Turtles: Out of the Shadows(2016)" rel="bookmark">
+				
+                     <img width="360" height="360" alt="8586312056_cf1e6e3b65_o" class="attachment-vw_square_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/05/TMNT_OotS_review.jpg">
+				</a>
+                
+			</div>
+		
+
+		<h3 class="title title-small"><a href="http://thefancarpet.com/reviews/teenagemutantninjaturtles_outoftheshadows/" title="Permalink to Teenage Mutant Ninja Turtles: Out of the Shadows(2016)" rel="bookmark">Teenage Mutant Ninja Turtles: Out of the Shadows(2016)</a></h3>
+		<div class="post-meta header-font">
+						<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/teenagemutantninjaturtles_outoftheshadows/" class="post-date" title="Permalink to Teenage Mutant Ninja Turtles: Out of the Shadows(2016)" rel="bookmark">May 30, 2016</a>
+		</div>
+		
+		<div class="post-categories clearfix">
+			            <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>2.5</div><a rel="category" title="View all posts in Review" href="http://thefancarpet.com/reviews/teenagemutantninjaturtles_outoftheshadows/" class="label label-small">Review</a>
+		</div>
+		
+</article>
+
+       <article class="post-296904 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+	
+	    
+			<div class="post-thumbnail-wrapper">
+				<a href="http://thefancarpet.com/reviews/darksignal/" title="Permalink to Dark Signal(2016)" rel="bookmark">
+				
+                     <img width="360" height="360" alt="8586312056_cf1e6e3b65_o" class="attachment-vw_square_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/05/darksignalreview.jpg">
+				</a>
+                
+			</div>
+		
+
+		<h3 class="title title-small"><a href="http://thefancarpet.com/reviews/darksignal/" title="Permalink to Dark Signal(2016)" rel="bookmark">Dark Signal(2016)</a></h3>
+		<div class="post-meta header-font">
+						<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/darksignal/" class="post-date" title="Permalink to Dark Signal(2016)" rel="bookmark">May 28, 2016</a>
+		</div>
+		
+		<div class="post-categories clearfix">
+			            <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>3.5</div><a rel="category" title="View all posts in Review" href="http://thefancarpet.com/reviews/darksignal/" class="label label-small">Review</a>
+		</div>
+		
+</article>
+
+       <article class="post-297307 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+	
+	    
+			<div class="post-thumbnail-wrapper">
+				<a href="http://thefancarpet.com/reviews/alicethroughthelookingglass/" title="Permalink to Alice Through the Looking Glass(2016)" rel="bookmark">
+				
+                     <img width="360" height="360" alt="8586312056_cf1e6e3b65_o" class="attachment-vw_square_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/06/AliceThroughTheLookingGlass_review.jpg">
+				</a>
+                
+			</div>
+		
+
+		<h3 class="title title-small"><a href="http://thefancarpet.com/reviews/alicethroughthelookingglass/" title="Permalink to Alice Through the Looking Glass(2016)" rel="bookmark">Alice Through the Looking Glass(2016)</a></h3>
+		<div class="post-meta header-font">
+						<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/alicethroughthelookingglass/" class="post-date" title="Permalink to Alice Through the Looking Glass(2016)" rel="bookmark">May 27, 2016</a>
+		</div>
+		
+		<div class="post-categories clearfix">
+			            <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>4</div><a rel="category" title="View all posts in Review" href="http://thefancarpet.com/reviews/alicethroughthelookingglass/" class="label label-small">Review</a>
+		</div>
+		
+</article>
+
+       <article class="post-296651 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+	
+	    
+			<div class="post-thumbnail-wrapper">
+				<a href="http://thefancarpet.com/reviews/loveandfriendship/" title="Permalink to Love and Friendship(2016)" rel="bookmark">
+				
+                     <img width="360" height="360" alt="8586312056_cf1e6e3b65_o" class="attachment-vw_square_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/05/LoveAndFriendship_review.jpg">
+				</a>
+                
+			</div>
+		
+
+		<h3 class="title title-small"><a href="http://thefancarpet.com/reviews/loveandfriendship/" title="Permalink to Love and Friendship(2016)" rel="bookmark">Love and Friendship(2016)</a></h3>
+		<div class="post-meta header-font">
+						<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/loveandfriendship/" class="post-date" title="Permalink to Love and Friendship(2016)" rel="bookmark">May 25, 2016</a>
+		</div>
+		
+		<div class="post-categories clearfix">
+			            <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>4</div><a rel="category" title="View all posts in Review" href="http://thefancarpet.com/reviews/loveandfriendship/" class="label label-small">Review</a>
+		</div>
+		
+</article>
+
+       <article class="post-296632 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+	
+	    
+			<div class="post-thumbnail-wrapper">
+				<a href="http://thefancarpet.com/reviews/abeautifulplanet/" title="Permalink to A Beautiful Planet(2016)" rel="bookmark">
+				
+                     <img width="360" height="360" alt="8586312056_cf1e6e3b65_o" class="attachment-vw_square_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/05/abeautifulplanet_review.jpg">
+				</a>
+                
+			</div>
+		
+
+		<h3 class="title title-small"><a href="http://thefancarpet.com/reviews/abeautifulplanet/" title="Permalink to A Beautiful Planet(2016)" rel="bookmark">A Beautiful Planet(2016)</a></h3>
+		<div class="post-meta header-font">
+						<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/abeautifulplanet/" class="post-date" title="Permalink to A Beautiful Planet(2016)" rel="bookmark">May 25, 2016</a>
+		</div>
+		
+		<div class="post-categories clearfix">
+			            <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>5</div><a rel="category" title="View all posts in Review" href="http://thefancarpet.com/reviews/abeautifulplanet/" class="label label-small">Review</a>
+		</div>
+		
+</article>
+
+       <article class="post-296342 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+	
+	    
+			<div class="post-thumbnail-wrapper">
+				<a href="http://thefancarpet.com/reviews/departure/" title="Permalink to Departure(2016)" rel="bookmark">
+				
+                     <img width="360" height="360" alt="8586312056_cf1e6e3b65_o" class="attachment-vw_square_small wp-post-image" src="http://thefancarpet.com/wp-content/uploads/2016/05/departure_review.jpg">
+				</a>
+                
+			</div>
+		
+
+		<h3 class="title title-small"><a href="http://thefancarpet.com/reviews/departure/" title="Permalink to Departure(2016)" rel="bookmark">Departure(2016)</a></h3>
+		<div class="post-meta header-font">
+						<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/departure/" class="post-date" title="Permalink to Departure(2016)" rel="bookmark">May 19, 2016</a>
+		</div>
+		
+		<div class="post-categories clearfix">
+			            <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>3</div><a rel="category" title="View all posts in Review" href="http://thefancarpet.com/reviews/departure/" class="label label-small">Review</a>
+		</div>
+		
+</article>
+</div>
+	</div><div id="vw_widget_image_banner-5" class="widget vw-sidebar-custom-Home3 widget_vw_widget_image_banner">			<a class="image-banner-link" href="http://thefancarpet.com/advertising/">
+				<img class="image-banner" src="http://thefancarpet.com/wp-content/uploads/2015/05/TFCHouseAd1.jpg" alt="">
+			</a>
+		</div>							</div>
+						</aside>
+					</div>
+				
+			</div></div><div class="row vwpc-row"><div class="vwpc-section-latest">
+												<div class="col-sm-7 col-md-8">
+						<hr class="section-hr">
+									<h1 class="section-title title title-large">
+				LATEST REVIEWS			</h1>
+			<p class="section-description">Read the latest reviews from our team</p>		
+						<div class="row vw-isotope post-box-list">
+															<div class="post-box-wrapper col-sm-6"><article class="post-297185 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+					 <a href="http://thefancarpet.com/reviews/theniceguys/" title="Permalink to The Nice Guys(2016)" rel="bookmark">
+			            
+				<img width="400" height="280" src="http://thefancarpet.com/wp-content/uploads/2016/06/theniceguys.jpg" class="attachment-vw_medium wp-post-image" alt="theniceguys" />                            
+                            
+			</a>
+
+		</div>
+	   
+        <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>     3.5</div>
+         <div class="post-categories clearfix">
+<a rel="category" title="View all posts in spotlight" href="http://thefancarpet.com/reviews" class="label label-small">REVIEWS</a></div>
+			<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/reviews/theniceguys/" title="Permalink to The Nice Guys(2016)" rel="bookmark">The Nice Guys(2016)</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/theniceguys/" class="post-date" title="Permalink to The Nice Guys(2016)" rel="bookmark">June 2, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">The talented writer, director that is Shane Black takes to the director’s seat once more in action crime comedy, The Nice Guys. Yes, the word ...</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/reviews/theniceguys/" title="Permalink to The Nice Guys(2016)" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/reviews/theniceguys/#comments" title="Permalink to The Nice Guys(2016)" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-297181 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+					 <a href="http://thefancarpet.com/reviews/breakingthebank/" title="Permalink to Breaking the Bank(2016)" rel="bookmark">
+			            
+				<img width="400" height="280" src="http://thefancarpet.com/wp-content/uploads/2016/06/breakingthebank.jpg" class="attachment-vw_medium wp-post-image" alt="breakingthebank" />                            
+                            
+			</a>
+
+		</div>
+	   
+        <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>     2.5</div>
+         <div class="post-categories clearfix">
+<a rel="category" title="View all posts in spotlight" href="http://thefancarpet.com/reviews" class="label label-small">REVIEWS</a></div>
+			<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/reviews/breakingthebank/" title="Permalink to Breaking the Bank(2016)" rel="bookmark">Breaking the Bank(2016)</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/breakingthebank/" class="post-date" title="Permalink to Breaking the Bank(2016)" rel="bookmark">June 2, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">Written and directed by Vadim Jean, Breaking the Bank is a classic British comedy that, without taking itself too seriously, analyses how far a man ..</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/reviews/breakingthebank/" title="Permalink to Breaking the Bank(2016)" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/reviews/breakingthebank/#comments" title="Permalink to Breaking the Bank(2016)" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-296997 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+					 <a href="http://thefancarpet.com/reviews/mebeforeyou/" title="Permalink to Me Before You(2016)" rel="bookmark">
+			            
+				<img width="400" height="280" src="http://thefancarpet.com/wp-content/uploads/2016/05/mebeforeyou.jpg" class="attachment-vw_medium wp-post-image" alt="mebeforeyou" />                            
+                            
+			</a>
+
+		</div>
+	   
+        <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>     4</div>
+         <div class="post-categories clearfix">
+<a rel="category" title="View all posts in spotlight" href="http://thefancarpet.com/reviews" class="label label-small">REVIEWS</a></div>
+			<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/reviews/mebeforeyou/" title="Permalink to Me Before You(2016)" rel="bookmark">Me Before You(2016)</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/mebeforeyou/" class="post-date" title="Permalink to Me Before You(2016)" rel="bookmark">May 31, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">This could have gone terribly wrong. It could have been tossed to one side in the humungous heap of Hollywood romances that follow a liable ...</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/reviews/mebeforeyou/" title="Permalink to Me Before You(2016)" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/reviews/mebeforeyou/#comments" title="Permalink to Me Before You(2016)" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+															<div class="post-box-wrapper col-sm-6"><article class="post-296991 post-box fly-in animated-content post-box-large-thumbnail">
+			<div class="post-thumbnail-wrapper">
+			
+					 <a href="http://thefancarpet.com/reviews/13hours_thesecretsoldiersofbenghazi/" title="Permalink to 13 Hours: The Secret Soldiers of Benghazi(2016)" rel="bookmark">
+			            
+				<img width="400" height="280" src="http://thefancarpet.com/wp-content/uploads/2016/05/13hours.jpg" class="attachment-vw_medium wp-post-image" alt="13hours" />                            
+                            
+			</a>
+
+		</div>
+	   
+        <div title="Review Score" class="label label-review label-small"><i class="icon-entypo-star"></i>     4</div>
+         <div class="post-categories clearfix">
+<a rel="category" title="View all posts in spotlight" href="http://thefancarpet.com/reviews" class="label label-small">REVIEWS</a></div>
+			<div class="post-box-inner">
+				
+		<div class="post-categories clearfix">
+					</div>
+		
+		<h3 class="title"><a href="http://thefancarpet.com/reviews/13hours_thesecretsoldiersofbenghazi/" title="Permalink to 13 Hours: The Secret Soldiers of Benghazi(2016)" rel="bookmark">13 Hours: The Secret Soldiers of Benghazi(2016)</a></h3>
+		<div class="post-meta header-font">
+						<img alt='Admin' src='http://thefancarpet.com/wp-content/uploads/2015/09/Admin_avatar_1442949052-32x32.jpg' class='avatar avatar-32 photo' height='32' width='32' />			<a class="author-name" href="http://thefancarpet.com/author/marcjali/" title="View all posts by Admin">Admin</a><span class="post-meta-separator">,</span>
+			<a href="http://thefancarpet.com/reviews/13hours_thesecretsoldiersofbenghazi/" class="post-date" title="Permalink to 13 Hours: The Secret Soldiers of Benghazi(2016)" rel="bookmark">May 31, 2016</a>
+		</div>
+		
+		<div class="post-excerpt ">Michael Bay is one of the most despised directors working today. While his films are major money makers that ensure he won’t be out of ...</div>
+		<div class="post-box-footer clearfix">
+			<a class="read-more" href="http://thefancarpet.com/reviews/13hours_thesecretsoldiersofbenghazi/" title="Permalink to 13 Hours: The Secret Soldiers of Benghazi(2016)" rel="bookmark">
+				Read more <i class="icon-entypo-right-open"></i>
+			</a>
+			<a class="comment-count" href="http://thefancarpet.com/reviews/13hours_thesecretsoldiersofbenghazi/#comments" title="Permalink to 13 Hours: The Secret Soldiers of Benghazi(2016)" rel="bookmark">
+				<i class="icon-entypo-comment"></i> 0 Comments			</a>
+		</div>
+	</div>
+
+</article></div>
+													</div>
+
+											</div>
+					<div class="col-sm-5 col-md-4">
+						<aside class="sidebar-wrapper">
+							<div class="sidebar-inner">
+								<hr class="section-hr">
+								<div id="vw_widget_social_subscription-4" class="widget vw-sidebar-custom-Home2 widget_vw_widget_social_subscription">				<div class="social-subscription">
+					<a class="social-subscription-icon" href="http://www.twitter.com/thefancarpet" title="Follow our twitter" target="_blank"><i class="icon-social-twitter"></i></a>
+					<div class="social-subscription-counter">
+						<div class="social-subscription-count header-font">3,354</div>
+						<div class="social-subscription-unit">followers</div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+							<div class="social-subscription">
+					<a class="social-subscription-icon" href="" title="Like our facebook" target="_blank"><i class="icon-social-facebook"></i></a>
+					<div class="social-subscription-counter">
+						<div class="social-subscription-count header-font">0</div>
+						<div class="social-subscription-unit">fans</div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+							<div class="social-subscription">
+					<a class="social-subscription-icon" href="http://www.youtube.com" title="Subscribe our youtube" target="_blank"><i class="icon-social-youtube"></i></a>
+					<div class="social-subscription-counter">
+						<div class="social-subscription-count header-font">0</div>
+						<div class="social-subscription-unit">subscribers</div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			            				<div class="social-subscription">
+					<a class="social-subscription-icon" href="" title="" target="_blank"><i class="icon-social-gplus"></i></a>
+					<div class="social-subscription-counter">
+						<div class="social-subscription-count header-font">26,345</div>
+						<div class="social-subscription-unit">users</div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+					<div class="clearfix"></div>
+		</div><script type="text/javascript">   var ord = window.ord || Math.floor(Math.random() * 1e16);   </script>   <script type="text/javascript" src="http://ad.doubleclick.net/N4403/adj/thefancarpet.com/ros;sect=ros;sz=300x250;dc_ref='+encodeURIComponent(location.href)+';ord=' + ord + '?"></script> </script> <noscript> <a href="http://ad.doubleclick.net/N4403/jump/thefancarpet.com/ros;sect=ros;sz=300x250;dc_ref='+encodeURIComponent(location.href)+';ord=[timestamp]?"> <img src="http://ad.doubleclick.net/N4403/ad/thefancarpet.com/ros;sect=ros;sz=300x250;dc_ref='+encodeURIComponent(location.href)+';ord=[timestamp]?" width="300" height="250" /> </a> </noscript><div id="text-21" class="widget vw-sidebar-custom-Home2 widget_text">			<div class="textwidget"></div>
+		</div>							</div>
+						</aside>
+					</div>
+				
+			</div></div></div>
+
+				
+<footer id="footer">
+					<div class="footer-sidebar">
+	<div class="container">
+		<div class="row">
+							<div class="footer-sidebar-1 widget-area col-sm-4" role="complementary">
+				<div id="vw_widget_about_us-2" class="widget vw-sidebar-footer-1 widget_vw_widget_about_us"><h3 class="widget-title"><span class="super-title">Our Site</span>About us</h3>			Founded in 2004 in London, United Kingdom, The Fan Carpet is the red carpet for fans, we are dedicated to bridging the gap between the films and those who are a fan of that film and/or actor, actress, director etc., we have been growing steady for the past decade.
+
+We have a growing Film Database, regular Competitions, the latest Film News and Reviews, a wide variety of Interviews - video, audio and written, a growing Fan Site Network and much, much more!
+
+Enjoy your stay and spread the word about The Fan Carpet.			<div class="site-social-icons"><a class="site-social-icon" href="https://www.facebook.com/thefancarpet" title="Facebook" target="_blank"><i class="icon-social-facebook"></i></a><a class="site-social-icon" href="https://plus.google.com/103756784574385424489/posts" title="Google+" target="_blank"><i class="icon-social-google">+</i></a><a class="site-social-icon" href="http://www.instagram.com/fancarpet/" title="Instagram" target="_blank"><i class="icon-social-instagram"></i></a><a class="site-social-icon" href="https://www.twitter.com/thefancarpet" title="Twitter" target="_blank"><i class="icon-social-twitter"></i></a><a class="site-social-icon" href="https://www.youtube.com/user/thefancarpet" title="Youtube" target="_blank"><i class="icon-social-youtube"></i></a></div>
+		</div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- The Fan Carpet 300x250 --> <ins class="adsbygoogle"      style="display:inline-block;width:300px;height:250px"      data-ad-client="ca-pub-2171876798554025"      data-ad-slot="7061184790"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script><div id="text-22" class="widget vw-sidebar-footer-1 widget_text">			<div class="textwidget"></div>
+		</div>				</div>
+			
+							<div class="footer-sidebar-2 widget-area col-sm-4" role="complementary">
+				<div id="vw_widget_custom_text-7" class="widget vw-sidebar-footer-2 widget_vw_widget_custom_text"><h3 class="widget-title"><span class="super-title">The Fan Carpet</span>Welcome Message</h3>			<iframe width="360" height="298" src="https://www.youtube.com/embed/aadbZ_WQ6Nw" frameborder="0" allowfullscreen></iframe>		</div>				</div>
+			
+							<div class="footer-sidebar-3 widget-area col-sm-4" role="complementary">
+				<div id="vw_widget_custom_text-6" class="widget vw-sidebar-footer-3 widget_vw_widget_custom_text"><h3 class="widget-title"><span class="super-title">Visit </span>our partners</h3>			</a>
+<a href="http://www.ohmyhero.co.uk/"><img src="http://thefancarpet.com/wp-content/uploads/2015/07/omhlogo.png"/></a>
+<p><p>
+<a href="http://www.actinghour.com/"><img src="http://thefancarpet.com/wp-content/uploads/2015/04/ahlogo.png"/>
+<p><p>
+<a href="http://www.therealisticoptimist.co.uk"><img src="http://thefancarpet.com/wp-content/uploads/2016/05/TRO_logo.jpg"/></a>
+<p><p>
+<a href="http://cinelanguage.blogspot.co.uk/"><img src="http://thefancarpet.com/wp-content/uploads/2016/03/CineLanguage_logo.jpg"/></a>
+<p><p>
+<a href="https://www.hollyshop.com/"><img src="http://thefancarpet.com/wp-content/uploads/2014/10/logo1.png"/></a>		</div>				</div>
+					</div>
+	</div>
+</div>
+					<div class="copyright">
+						<div class="container">
+							<div class="row">                            
+								<div class="col-sm-6 copyright-left"><div class="footnav">
+								<ul id="menu-footer-menu" class="top-nav list-unstyled clearfix"><li id="nav-menu-item-257" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/privacy-policy/" class="menu-link main-menu-link"><span>PRIVACY POLICY</span></a></li>
+<li id="nav-menu-item-258" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/terms-of-service/" class="menu-link main-menu-link"><span>TERMS OF SERVICE</span></a></li>
+<li id="nav-menu-item-255" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/advertising/" class="menu-link main-menu-link"><span>ADVERTISING</span></a></li>
+<li id="nav-menu-item-254" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/faq/" class="menu-link main-menu-link"><span>FAQ</span></a></li>
+<li id="nav-menu-item-290" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/site-map/" class="menu-link main-menu-link"><span>SITE MAP</span></a></li>
+<li id="nav-menu-item-256" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="http://thefancarpet.com/contact-us/" class="menu-link main-menu-link"><span>CONTACT US</span></a></li>
+</ul></div></div>
+								<div class="col-sm-6 copyright-right">
+                                ©The Fan Carpet Ltd. Company Number 6702770 									<a class="back-to-top" href="#top">&uarr;	Back to top</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</footer>
+				
+			</div> <!-- Off canvas body inner -->
+		
+								
+				<script type='text/javascript'>
+			;(function( $, window, document, undefined ){
+				"use strict";
+
+				$( document ).ready( function ($) {
+							$( '.flexslider' ).flexslider({
+			animation: "fade",
+			easing: "easeInCirc",
+			slideshow: true,
+			slideshowSpeed: 4000,
+			animationSpeed: 600,
+			randomize: false,
+			pauseOnHover: true,
+			prevText: '',
+			nextText: '',
+			start: function( slider ) {
+				slider.css( 'opacity', '1' );
+				slider.find( '.post-thumbnail-wrapper' ).css( 'height', '500px' ).imgLiquid().fadeIn(250);
+			},
+		});
+					} );
+				
+			})( jQuery, window , document );
+
+					</script>
+		    <script type="text/javascript">
+	var isProcessing = false; 
+    function alter_ul_post_values(obj,post_id,ul_type){
+	
+		if (isProcessing)    
+		return;  
+		isProcessing = true;   
+		
+		jQuery(obj).find("span").html("..");
+    	jQuery.ajax({
+   		type: "POST",
+   		url: "http://thefancarpet.com/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/ajax_counter.php",
+   		data: "post_id="+post_id+"&up_type="+ul_type,
+   		success: function(msg){
+     		jQuery(obj).find("span").html(msg);
+			isProcessing = false; 
+   			}
+ 		});
+	}
+	</script>
+    <script type='text/javascript' src='http://thefancarpet.com/wp-includes/js/comment-reply.min.js?ver=4.1.11'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-content/plugins/envato-wordpress-toolkit/js/presso-shortcodes.js?ver=1.0'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-content/themes/presso/js/jquery.fitvids.js?ver=1.0'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-content/themes/presso/js/jquery.isotope.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-content/themes/presso/framework/flexslider/jquery.flexslider.js?ver=1.0'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-content/themes/presso/framework/swipebox/jquery.swipebox.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-content/themes/presso/js/asset.js?ver=1.0'></script>
+<script type='text/javascript' src='http://thefancarpet.com/wp-content/themes/presso/js/main.js?ver=1.0'></script>
+	</body>
+</html>
