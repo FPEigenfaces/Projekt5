@@ -16,6 +16,6 @@ def cascade_detection(images):
 
             cv2.imshow("Face Detection", resized_img)
             cv2.waitKey(100)
-            
-            
+
+                                                                                          
               

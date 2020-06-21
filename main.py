@@ -11,6 +11,7 @@ import cv2
 import os
 from eigenfaces import *
 from cascade_detection import*
+from lbp import*  
 
 # fetching images from ./resources and converting them into grayscale
 
@@ -65,8 +66,7 @@ def scale_img(folder_path = "./resources", max_width = 100, max_height = 100, in
     scaled_images_array = np.asarray(scaled_images_list)   
     return scaled_images_array
 
-def display():
-    arr = scale_img()
+def display(arr = scale_img()):
     for img in arr:
         print(img.shape)
         images = Image.fromarray(img)
@@ -106,5 +106,37 @@ for test_image in test_images:
     plt.show()
 '''
 #display()
-cascade_detection(fetch('./resources/training_images'))
+#cascade_detection(fetch('./resources/training_images'))
 #change_file_name()
+
+    
+
+def get_images_labels():
+    test_labels = []
+    training_labels = []
+    path_train = './resources/training_images/'
+    path_test = './resources/test_images'
+    files_train = [os.path.splitext(filename)[0] for filename in os.listdir(path_train)]
+    files_test = [os.path.splitext(filename)[0] for filename in os.listdir(path_test)]
+    for trains in files_train:
+        test_labels.append(trains)
+    for tests in files_test:
+        training_labels.append(tests)
+
+    return test_labels, scale_img('./resources/test_images'), training_labels, scale_img('./resources/training_images')
+
+def calculate_lbp():
+    arr = []
+    images = scale_img('./resources/training_images')
+    counter = 0
+    for img in images:
+        if(counter <= 20):
+            image = img.dot(0.5).astype(np.uint8)
+            lbp_image = standard_lbp(image)
+            arr.append(lbp_image)
+        else:
+            break
+
+#get_images_labels()
+#generate_lbp_histograms(arr)
+#print(lbp_image)
