@@ -9,15 +9,15 @@ import glob
 import imageio
 import cv2
 import os
-from eigenfaces import compute_eigenfaces
+from eigenfaces import *
 
 # fetching images from ./resources and converting them into grayscale
 
 
-def fetch_and_convert():
+def fetch_and_convert(folder_path):
 
     list_np_arrays = []
-    for image_path in glob.glob("./resources/*.png"):
+    for image_path in glob.glob(folder_path + "/*.png"):
         img_open = cv2.imread(image_path)
         gray = cv2.cvtColor(img_open, cv2.COLOR_BGR2GRAY)
         list_np_arrays.append(gray)
@@ -38,9 +38,9 @@ def get_max_size(arr):
     return maxsize
 
 
-def scale_img(max_width = 100, max_height = 100, inter = cv2.INTER_AREA):
+def scale_img(folder_path = "./resources", max_width = 100, max_height = 100, inter = cv2.INTER_AREA):
     
-    images = fetch_and_convert()
+    images = fetch_and_convert(folder_path)
     maxsize = get_max_size(images)
     scaled_images_list = []
     scaling_factor = 0
@@ -79,17 +79,22 @@ def matrix_to_img(mat):
     img = img.astype(np.uint8)
     return img
 
-
 '''
-arr = scale_img()
-avg_face, eigenfaces = compute_eigenfaces(arr, (100, 100), 5)
+train_images = scale_img()
+avg_face, eigenfaces = compute_eigenfaces(train_images, (100, 100), 5)
 
 for eigenface in eigenfaces:
     eigenface = matrix_to_img(eigenface)
-    images = Image.fromarray(eigenface)
-    plt.imshow(images)
+    image = Image.fromarray(eigenface)
+    plt.imshow(image)
+    plt.show()
+
+test_images = scale_img("./resources/test_images")
+for test_image in test_images:
+    image = reconstruct_img(test_image, avg_face, eigenfaces, (100, 100))
+    image = Image.fromarray(image)
+    plt.imshow(image)
     plt.show()
 '''
-
 display()
 #change_file_name()

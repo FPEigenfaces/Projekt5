@@ -29,7 +29,6 @@ def get_projection(img, avg_face, e_faces):
     return proj_weigths
 
 def classify_face(img, reconstructed_img, threshold=1000):
-     # Aufgabe 2_c
     diff = img - reconstructed_img
     diff_sum = diff.sum()
     if diff_sum <= threshold:
