@@ -10,9 +10,18 @@ import imageio
 import cv2
 import os
 from eigenfaces import *
+from cascade_detection import*
 
 # fetching images from ./resources and converting them into grayscale
 
+def fetch(folder_path):
+    list_np_arrays = []
+    for image_path in glob.glob(folder_path + "/*.png"):
+        img_open = cv2.imread(image_path)
+        gray = cv2.cvtColor(img_open, cv2.COLOR_BGR2GRAY)
+        list_np_arrays.append(gray)
+
+    return list_np_arrays
 
 def fetch_and_convert(folder_path):
 
@@ -81,7 +90,7 @@ def matrix_to_img(mat):
 
 '''
 train_images = scale_img()
-avg_face, eigenfaces = compute_eigenfaces(train_images, (100, 100), 5)
+avg_face, eigenfaces = compute_eigenfaces(train_images, (100, 100), 10)
 
 for eigenface in eigenfaces:
     eigenface = matrix_to_img(eigenface)
@@ -96,5 +105,6 @@ for test_image in test_images:
     plt.imshow(image)
     plt.show()
 '''
-display()
+#display()
+cascade_detection(fetch('./resources/training_images'))
 #change_file_name()
