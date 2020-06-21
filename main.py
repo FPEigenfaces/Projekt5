@@ -12,6 +12,8 @@ import os
 from eigenfaces import *
 from cascade_detection import*
 from lbp import*  
+import matplotlib.pyplot as plt
+from scipy.spatial.distance import cdist
 
 # fetching images from ./resources and converting them into grayscale
 
@@ -110,7 +112,7 @@ for test_image in test_images:
 #change_file_name()
 
     
-
+#hier bekommt man labels und bilder der trainings und test einheiten
 def get_images_labels():
     test_labels = []
     training_labels = []
@@ -119,24 +121,46 @@ def get_images_labels():
     files_train = [os.path.splitext(filename)[0] for filename in os.listdir(path_train)]
     files_test = [os.path.splitext(filename)[0] for filename in os.listdir(path_test)]
     for trains in files_train:
-        test_labels.append(trains)
+        training_labels.append(trains)
     for tests in files_test:
-        training_labels.append(tests)
+        test_labels.append(tests)
 
     return test_labels, scale_img('./resources/test_images'), training_labels, scale_img('./resources/training_images')
 
-def calculate_lbp():
-    arr = []
-    images = scale_img('./resources/training_images')
-    counter = 0
-    for img in images:
-        if(counter <= 20):
-            image = img.dot(0.5).astype(np.uint8)
-            lbp_image = standard_lbp(image)
-            arr.append(lbp_image)
-        else:
-            break
 
+test_labels, test_images, train_labels, train_images = get_images_labels()
+
+def lbp_generate_histograms_face_no_face():
+    
+    train_lbp_images = []
+    test_lbp_images = []
+
+    print('Berechne Trainings LBP Bilder')
+    for img in train_images:
+        train_lbp_images.append(standard_lbp(img))
+    
+    print('Berechne Test LBP Bilder')
+    for img in test_images:
+        test_lbp_images.append(standard_lbp(img))
+    
+    for test_lbp_image in test_lbp_images:
+        plt.imshow(test_lbp_image, cmap='gray', vmin=0, vmax=255)
+        plt.title('LBP-Image')
+        plt.show()
+    
+    trains_histograms = generate_lbp_histograms(train_lbp_images)
+    test_histograms = generate_lbp_histograms(test_lbp_images)
+    distances = cdist(test_histograms,trains_histograms,'cityblock')
+    thrshold = 1000
+    print(len(distances))
+    for i in range(len(distances)):
+        min_idx = np.argmin(distances[i])
+        min_dist = np.min(distances[i])
+        if min_dist <= thrshold:
+            print('<%s; %s; %s;face'%(i,test_labels[i],min_dist))
+        else:
+            print('<%s; %s; %s;no face'%(i,test_labels[i],min_dist))    
 #get_images_labels()
 #generate_lbp_histograms(arr)
 #print(lbp_image)
+#lbp_generate_histograms_face_no_face()
