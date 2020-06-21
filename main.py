@@ -3,12 +3,14 @@ from matplotlib import pyplot as plt
 from skimage import io
 from skimage import color
 import numpy as np
-from PIL import Image
+from PIL import Image, ImageOps
 from scipy import misc
 import glob
 import imageio
 import cv2
 import os
+from eigenfaces import compute_eigenfaces
+
 # fetching images from ./resources and converting them into grayscale
 
 
@@ -26,7 +28,6 @@ def fetch_and_convert():
 
     return np_arrs
 
-
 def get_max_size(arr):
     maxsize = (0, 0)
     for img in arr:
@@ -37,17 +38,20 @@ def get_max_size(arr):
     return maxsize
 
 
-def scale_img(max_width = 500, max_height = 500, inter = cv2.INTER_AREA):
+def scale_img(max_width = 100, max_height = 100, inter = cv2.INTER_AREA):
+    
     images = fetch_and_convert()
     maxsize = get_max_size(images)
     scaled_images_list = []
     scaling_factor = 0
     for img in images:
+        '''
         (height,width) = img.shape[:2]
         ratio = min(max_width/width, max_height/height)
         #ratio = max_width / float(width)
         dim = (int(height*ratio), int(width*ratio))
-        resized_img = cv2.resize(img, dim, interpolation = inter)
+        '''
+        resized_img = cv2.resize(img, (max_width, max_height), interpolation = inter)
         scaled_images_list.append(resized_img)
     scaled_images_array = np.asarray(scaled_images_list)   
     return scaled_images_array
@@ -65,6 +69,27 @@ def change_file_name(name='james_corden'):
         if os.path.isdir("./resources/gray_scale/"):
             for i, filename in enumerate(os.listdir("./resources/gray_scale/")):
                 os.rename("./resources/gray_scale/" + "/" + filename, "./resources/gray_scale/" + "/"+str(name)+'_' + str(i) + ".png")
+
+# convert matrix to grayscale image between [0, 255]
+def matrix_to_img(mat):
+    img = np.copy(mat)
+    img -= np.min(img) 
+    img /= np.max(img) 
+    img *= 255
+    img = img.astype(np.uint8)
+    return img
+
+
+'''
+arr = scale_img()
+avg_face, eigenfaces = compute_eigenfaces(arr, (100, 100), 5)
+
+for eigenface in eigenfaces:
+    eigenface = matrix_to_img(eigenface)
+    images = Image.fromarray(eigenface)
+    plt.imshow(images)
+    plt.show()
+'''
 
 display()
 #change_file_name()
