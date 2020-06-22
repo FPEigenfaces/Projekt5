@@ -41,7 +41,6 @@ def fetch_and_convert(folder_path):
         list_np_arrays.append(gray)
 
     np_arrs = np.asarray(list_np_arrays)
-    print('jere' + str(len(np_arrs)))
     return np_arrs
 
 
@@ -72,7 +71,6 @@ def scale_img(folder_path="./resources", max_width=100, max_height=100, inter=cv
             img, (max_width, max_height), interpolation=inter)
         scaled_images_list.append(resized_img)
     scaled_images_array = np.asarray(scaled_images_list)
-    print(len(scaled_images_array))
     return scaled_images_array
 
 
@@ -153,11 +151,11 @@ def lbp_generate_histograms_face_no_face():
     train_lbp_images = []
     test_lbp_images = []
 
-    print('Berechne Trainings LBP Bilder')
+    print('Berechne Trainings LBP Bilder...')
     for img in train_images:
         train_lbp_images.append(standard_lbp(img))
 
-    print('Berechne Test LBP Bilder')
+    print('Berechne Test LBP Bilder...')
     for img in test_images:
         test_lbp_images.append(standard_lbp(img))
 
@@ -181,7 +179,7 @@ def lbp_generate_histograms_face_no_face():
     for i in range(len(distances)):
         min_idx = np.argmin(distances[i])
         prediction = train_labels[min_idx]
-        print("<"+str(i)+";"+str(test_labels[i])+";"+str(prediction)+">")
+        print('<%s;%s;%s>'%(i,test_labels[i],prediction))
 
 
 # get_images_labels()
