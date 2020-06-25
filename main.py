@@ -225,7 +225,7 @@ def crop_img(file_path):
 # get_images_labels()
 # generate_lbp_histograms(arr)
 # print(lbp_image)
-lbp_generate_histograms_face_no_face()
+#lbp_generate_histograms_face_no_face()
 # eigenfaces_face_no_face()
 # crop_img('./resources/beard')
 
@@ -247,12 +247,12 @@ def beard_no_beard():
     trains_histograms = generate_lbp_histograms(train_lbp_images)
     test_histograms = generate_lbp_histograms(test_lbp_images)
     distances = cdist(test_histograms, trains_histograms, 'cityblock')
-    thrshold = 590
+    threshold = 590
 
     for i in range(len(test_histograms)):
         min_idx = np.argmin(distances[i])
         min_dist = np.min(distances[i])
-        if min_dist <= thrshold:
+        if min_dist <= threshold:
             print('ID:%s Label:%s Distance:%s Prediction: Beard' %
                   (i, test_labels[i], min_dist))
         else:
@@ -261,4 +261,4 @@ def beard_no_beard():
 
 
 # predict_face_with_eigenfaces()
-# beard_no_beard() #erkennt 3 tage bart
+beard_no_beard() #erkennt 3 tage bart
