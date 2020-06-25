@@ -1,5 +1,6 @@
 from sklearn.decomposition import PCA
 import numpy as np
+import scipy.spatial.distance as ssd
 
 def compute_eigenfaces(train_faces, img_size, num_eigenfaces):
     faceVecLength = img_size[0]*img_size[1]
@@ -12,7 +13,7 @@ def compute_eigenfaces(train_faces, img_size, num_eigenfaces):
     returnMatrix = returnMatrix - avg_face
 
     pca = PCA(n_components=num_eigenfaces, svd_solver='randomized', whiten=True).fit(returnMatrix)
-    eigenfaces = pca.components_.reshape((num_eigenfaces, img_size[0], img_size[1]))
+    eigenfaces = pca.components_.reshape((num_eigenfaces, img_size[0] * img_size[1]))
     return avg_face, eigenfaces
 
 def reconstruct_img(img, avg_face, e_faces, img_size):

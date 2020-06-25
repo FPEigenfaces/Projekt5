@@ -99,24 +99,6 @@ def matrix_to_img(mat):
     img = img.astype(np.uint8)
     return img
 
-
-'''
-train_images = scale_img()
-avg_face, eigenfaces = compute_eigenfaces(train_images, (100, 100), 10)
-
-for eigenface in eigenfaces:
-    eigenface = matrix_to_img(eigenface)
-    image = Image.fromarray(eigenface)
-    plt.imshow(image)
-    plt.show()
-
-test_images = scale_img("./resources/test_images")
-for test_image in test_images:
-    image = reconstruct_img(test_image, avg_face, eigenfaces, (100, 100))
-    image = Image.fromarray(image)
-    plt.imshow(image)
-    plt.show()
-'''
 # display()
 # cascade_detection(fetch('./resources/training_images'))
 # change_file_name()
@@ -181,8 +163,31 @@ def lbp_generate_histograms_face_no_face():
         prediction = train_labels[min_idx]
         print('<%s;%s;%s>'%(i,test_labels[i],prediction))
 
+def eigenfaces_face_no_face():
+    avg_face, eigenfaces = compute_eigenfaces(train_images, (100, 100), 15)
+    '''
+    for eigenface in eigenfaces:
+        eigenface = matrix_to_img(eigenface.reshape(100, 100))
+        image = Image.fromarray(eigenface)
+        plt.imshow(image)
+        plt.show()
+    '''
+    for i, img in enumerate(test_images):
+        reconstructed_face = reconstruct_img(img, avg_face, eigenfaces, (100, 100))
+        is_face, dist = classify_face(img, reconstructed_face, threshold=55000000)
+        print(test_labels[i], "isface:", is_face, " | ", dist)
+
+def predict_face_with_eigenfaces():
+    avg_face, eigenfaces = compute_eigenfaces(train_images, (100, 100), 15)
+    train_proj = get_train_projection(train_images, avg_face, eigenfaces)
+
+    for i, img in enumerate(test_images):
+        id = get_most_similar_face_id(img, avg_face, eigenfaces, train_proj)
+        print('True: %s, Predicted: %s' %(test_labels[i],train_labels[id]))
 
 # get_images_labels()
 # generate_lbp_histograms(arr)
 # print(lbp_image)
-lbp_generate_histograms_face_no_face()
+#lbp_generate_histograms_face_no_face()
+#eigenfaces_face_no_face()
+predict_face_with_eigenfaces()
