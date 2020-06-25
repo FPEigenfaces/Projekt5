@@ -161,7 +161,8 @@ def lbp_generate_histograms_face_no_face():
     for i in range(len(distances)):
         min_idx = np.argmin(distances[i])
         prediction = train_labels[min_idx]
-        print('<%s;%s;%s>'%(i,test_labels[i],prediction))
+        print('<%s;%s;%s>' % (i, test_labels[i], prediction))
+
 
 def eigenfaces_face_no_face():
     avg_face, eigenfaces = compute_eigenfaces(train_images, (100, 100), 15)
@@ -173,44 +174,85 @@ def eigenfaces_face_no_face():
         plt.show()
     '''
     for i, img in enumerate(test_images):
-        reconstructed_face = reconstruct_img(img, avg_face, eigenfaces, (100, 100))
-        is_face, dist = classify_face(img, reconstructed_face, threshold=55000000)
+        reconstructed_face = reconstruct_img(
+            img, avg_face, eigenfaces, (100, 100))
+        is_face, dist = classify_face(
+            img, reconstructed_face, threshold=55000000)
         print(test_labels[i], "isface:", is_face, " | ", dist)
+
 
 def predict_face_with_eigenfaces():
     counter_false = 0
     counter_true = 0
-    counter=0
+    counter = 0
     avg_face, eigenfaces = compute_eigenfaces(train_images, (100, 100), 15)
     train_proj = get_train_projection(train_images, avg_face, eigenfaces)
 
     for i, img in enumerate(test_images):
-        counter+=1
+        counter += 1
         id = get_most_similar_face_id(img, avg_face, eigenfaces, train_proj)
         if test_labels[i][:3] not in train_labels[id]:
-            print('False: %s, Predicted: %s ' %(test_labels[i],train_labels[id]))
-            counter_false+=1
+            print('False: %s, Predicted: %s ' %
+                  (test_labels[i], train_labels[id]))
+            counter_false += 1
         else:
-            print('True: %s, Predicted: %s ' %(test_labels[i],train_labels[id]))
-            counter_true+=1
-    
-    percentage_true = (counter_true/counter)*100 
-    percentage_false = (counter_false/counter)*100
-    print('percentage of True: %s'%(round(percentage_true)))
-    print('percentage of False: %s'%(round(percentage_false)))
+            print('True: %s, Predicted: %s ' %
+                  (test_labels[i], train_labels[id]))
+            counter_true += 1
 
-def crop_img(y=0, h=0, x = 0):
-    images = fetch('./resources/training_images')
+    percentage_true = (counter_true/counter)*100
+    percentage_false = (counter_false/counter)*100
+    print('percentage of True: %s' % (round(percentage_true)))
+    print('percentage of False: %s' % (round(percentage_false)))
+
+
+def crop_img(file_path, y=0, h=0, x=0):
+    images = fetch(file_path)
+    crop = []
     print(len(images))
     for img in images:
-        image = cv2.imread(img)
-        
-        cv2.waitKey(0)
+        crop_img = img[58:90, 35:85]
+        crop.append(crop_img)
+        #cv2.imshow("cropped", crop_img)
+        # cv2.waitKey(2000)
+
+    return crop
 
 # get_images_labels()
 # generate_lbp_histograms(arr)
 # print(lbp_image)
-#lbp_generate_histograms_face_no_face()
-#eigenfaces_face_no_face()
-#crop_img()
-predict_face_with_eigenfaces()
+# lbp_generate_histograms_face_no_face()
+# eigenfaces_face_no_face()
+# crop_img('./resources/beard')
+
+
+def beard_no_beard():
+    images_train = crop_img('./resources/beard')
+    images_test = crop_img('./resources/test_images')
+    train_lbp_images = []
+    test_lbp_images = []
+
+    print('Berechne Trainings LBP Bilder...')
+    for img in images_train:
+        train_lbp_images.append(standard_lbp(img))
+
+    print('Berechne Test LBP Bilder...')
+    for img in images_test:
+        test_lbp_images.append(standard_lbp(img))
+
+    trains_histograms = generate_lbp_histograms(train_lbp_images)
+    test_histograms = generate_lbp_histograms(test_lbp_images)
+    distances = cdist(test_histograms, trains_histograms, 'cityblock')
+    thrshold = 590
+
+    for i in range(len(test_histograms)):
+        min_idx = np.argmin(distances[i])
+        min_dist = np.min(distances[i])
+        if min_dist <= thrshold:
+            print('<%s;%s;%s;beard' % (i, test_labels[i], min_dist))
+        else:
+            print('<%s; %s;%s;no beard' % (i, test_labels[i], min_dist))
+
+
+# predict_face_with_eigenfaces()
+beard_no_beard()
