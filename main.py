@@ -178,16 +178,39 @@ def eigenfaces_face_no_face():
         print(test_labels[i], "isface:", is_face, " | ", dist)
 
 def predict_face_with_eigenfaces():
+    counter_false = 0
+    counter_true = 0
+    counter=0
     avg_face, eigenfaces = compute_eigenfaces(train_images, (100, 100), 15)
     train_proj = get_train_projection(train_images, avg_face, eigenfaces)
 
     for i, img in enumerate(test_images):
+        counter+=1
         id = get_most_similar_face_id(img, avg_face, eigenfaces, train_proj)
-        print('True: %s, Predicted: %s' %(test_labels[i],train_labels[id]))
+        if test_labels[i][:3] not in train_labels[id]:
+            print('False: %s, Predicted: %s ' %(test_labels[i],train_labels[id]))
+            counter_false+=1
+        else:
+            print('True: %s, Predicted: %s ' %(test_labels[i],train_labels[id]))
+            counter_true+=1
+    
+    percentage_true = (counter_true/counter)*100 
+    percentage_false = (counter_false/counter)*100
+    print('percentage of True: %s'%(round(percentage_true)))
+    print('percentage of False: %s'%(round(percentage_false)))
+
+def crop_img(y=0, h=0, x = 0):
+    images = fetch('./resources/training_images')
+    print(len(images))
+    for img in images:
+        image = cv2.imread(img)
+        
+        cv2.waitKey(0)
 
 # get_images_labels()
 # generate_lbp_histograms(arr)
 # print(lbp_image)
 #lbp_generate_histograms_face_no_face()
 #eigenfaces_face_no_face()
+#crop_img()
 predict_face_with_eigenfaces()

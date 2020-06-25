@@ -40,3 +40,4 @@ def generate_lbp_histograms(lbp_image_list, num_bins=2**8):
         tmp_bincount = np.bincount(tmp)
         hists[i] = tmp_bincount
     return hists
+
