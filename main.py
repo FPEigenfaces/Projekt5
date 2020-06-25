@@ -255,4 +255,4 @@ def beard_no_beard():
 
 
 # predict_face_with_eigenfaces()
-beard_no_beard()
+beard_no_beard() #erkennt 3 tage bart
