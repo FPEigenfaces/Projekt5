@@ -149,7 +149,7 @@ def lbp_generate_histograms_face_no_face():
     trains_histograms = generate_lbp_histograms(train_lbp_images)
     test_histograms = generate_lbp_histograms(test_lbp_images)
     distances = cdist(test_histograms, trains_histograms, 'cityblock')
-    thrshold = 1000
+    thrshold = 3000
     for i in range(len(test_histograms)):
         min_idx = np.argmin(distances[i])
         min_dist = np.min(distances[i])
@@ -161,7 +161,10 @@ def lbp_generate_histograms_face_no_face():
     for i in range(len(distances)):
         min_idx = np.argmin(distances[i])
         prediction = train_labels[min_idx]
-        print('<%s;%s;%s>' % (i, test_labels[i], prediction))
+        if test_labels[i][:3] not in prediction:
+            print('FALSE %s;%s;%s' % (i, test_labels[i], prediction))
+        else:
+            print('TRUE %s;%s;%s' % (i, test_labels[i], prediction))
 
 
 def eigenfaces_face_no_face():
@@ -206,7 +209,7 @@ def predict_face_with_eigenfaces():
     print('percentage of False: %s' % (round(percentage_false)))
 
 
-def crop_img(file_path, y=0, h=0, x=0):
+def crop_img(file_path):
     images = fetch(file_path)
     crop = []
     print(len(images))
@@ -218,17 +221,18 @@ def crop_img(file_path, y=0, h=0, x=0):
 
     return crop
 
+
 # get_images_labels()
 # generate_lbp_histograms(arr)
 # print(lbp_image)
-# lbp_generate_histograms_face_no_face()
+lbp_generate_histograms_face_no_face()
 # eigenfaces_face_no_face()
 # crop_img('./resources/beard')
 
 
 def beard_no_beard():
     images_train = crop_img('./resources/beard')
-    images_test = crop_img('./resources/test_images')
+    images_test = crop_img('./resources/beard_test')
     train_lbp_images = []
     test_lbp_images = []
 
@@ -249,10 +253,12 @@ def beard_no_beard():
         min_idx = np.argmin(distances[i])
         min_dist = np.min(distances[i])
         if min_dist <= thrshold:
-            print('<%s;%s;%s;beard' % (i, test_labels[i], min_dist))
+            print('ID:%s Label:%s Distance:%s Prediction: Beard' %
+                  (i, test_labels[i], min_dist))
         else:
-            print('<%s; %s;%s;no beard' % (i, test_labels[i], min_dist))
+            print('ID:%s Label:%s Distance:%s Prediction: NO Beard' %
+                  (i, test_labels[i], min_dist))
 
 
 # predict_face_with_eigenfaces()
-beard_no_beard() #erkennt 3 tage bart
+# beard_no_beard() #erkennt 3 tage bart
