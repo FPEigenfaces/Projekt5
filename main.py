@@ -247,18 +247,30 @@ def beard_no_beard():
     trains_histograms = generate_lbp_histograms(train_lbp_images)
     test_histograms = generate_lbp_histograms(test_lbp_images)
     distances = cdist(test_histograms, trains_histograms, 'cityblock')
-    threshold = 550
+    threshold = 539
 
     for i in range(len(test_histograms)):
         min_idx = np.argmin(distances[i])
         min_dist = np.min(distances[i])
         if min_dist <= threshold:
-            print('ID:%s Label:%s Distance:%s Prediction: Beard' %
-                  (i, test_labels[i], min_dist))
+            if test_labels[i][:3] not in "beard":
+                counter+=1
+                print('FALSE :ID:%s Label:%s Distance:%s Prediction: Beard' %
+                    (i, test_labels[i], min_dist))
+            else:
+                print('TRUE :ID:%s Label:%s Distance:%s Prediction: Beard' %
+                (i, test_labels[i], min_dist))
         else:
-            print('ID:%s Label:%s Distance:%s Prediction: NO Beard' %
-                  (i, test_labels[i], min_dist))
-
+            if test_labels[i][:7] not in "no_beard":
+                counter+=1
+                print('FALSE ID:%s Label:%s Distance:%s Prediction: NO Beard' %
+                     (i, test_labels[i], min_dist))
+            else:
+                print('TRUE ID:%s Label:%s Distance:%s Prediction: NO Beard' %
+                     (i, test_labels[i], min_dist))
+    percentage_false = (counter/len(test_histograms))*100
+    print("False percentage " + str(percentage_false))
+    print("True percentage " + str(100-percentage_false))
 
 # predict_face_with_eigenfaces()
 beard_no_beard() #erkennt 3 tage bart
