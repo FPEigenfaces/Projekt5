@@ -109,7 +109,7 @@ def get_images_labels():
     test_labels = []
     training_labels = []
     path_train = './resources/training_images/'
-    path_test = './resources/test_images/'
+    path_test = './resources/beard_test/'
     files_train = [os.path.splitext(filename)[0]
                    for filename in os.listdir(path_train)]
     files_test = [os.path.splitext(filename)[0]
@@ -235,7 +235,7 @@ def beard_no_beard():
     images_test = crop_img('./resources/beard_test')
     train_lbp_images = []
     test_lbp_images = []
-
+    counter = 0
     print('Berechne Trainings LBP Bilder...')
     for img in images_train:
         train_lbp_images.append(standard_lbp(img))
@@ -247,7 +247,7 @@ def beard_no_beard():
     trains_histograms = generate_lbp_histograms(train_lbp_images)
     test_histograms = generate_lbp_histograms(test_lbp_images)
     distances = cdist(test_histograms, trains_histograms, 'cityblock')
-    threshold = 590
+    threshold = 550
 
     for i in range(len(test_histograms)):
         min_idx = np.argmin(distances[i])
