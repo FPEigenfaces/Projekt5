@@ -14,6 +14,7 @@ from cascade_detection import*
 from lbp import*
 import matplotlib.pyplot as plt
 from scipy.spatial.distance import cdist
+from skimage.feature import local_binary_pattern
 
 # fetching images from ./resources and converting them into grayscale
 
@@ -166,6 +167,45 @@ def lbp_generate_histograms_face_no_face():
         else:
             print('TRUE %s;%s;%s' % (i, test_labels[i], prediction))
 
+def generic_lbp_histograms_face_no_face():
+    train_lbp_images = []
+    test_lbp_images = []
+
+    print('Berechne Trainings LBP Bilder...')
+    for img in train_images:
+        train_lbp_images.append(np.array(local_binary_pattern(img, 16, 3), dtype=np.int32))
+
+    print('Berechne Test LBP Bilder...')
+    for img in test_images:
+        test_lbp_images.append(np.array(local_binary_pattern(img, 16, 3), dtype=np.int32))
+
+    '''
+    for test_lbp_image in test_lbp_images:
+        plt.imshow(test_lbp_image, cmap='gray', vmin=0, vmax=255)
+        plt.title('LBP-Image')
+        plt.show()
+    '''
+
+    trains_histograms = generate_lbp_histograms(train_lbp_images, 65536)
+    test_histograms = generate_lbp_histograms(test_lbp_images, 65536)
+    distances = cdist(test_histograms, trains_histograms, 'cityblock')
+    thrshold = 10000
+    for i in range(len(test_histograms)):
+        min_idx = np.argmin(distances[i])
+        min_dist = np.min(distances[i])
+        if min_dist <= thrshold:
+            print('<%s;%s;%s;face' % (i, test_labels[i], min_dist))
+        else:
+            print('<%s; %s;%s;no face' % (i, test_labels[i], min_dist))
+
+    for i in range(len(distances)):
+        min_idx = np.argmin(distances[i])
+        prediction = train_labels[min_idx]
+        if test_labels[i][:3] not in prediction:
+            print('FALSE %s;%s;%s' % (i, test_labels[i], prediction))
+        else:
+            print('TRUE %s;%s;%s' % (i, test_labels[i], prediction))
+
 
 def eigenfaces_face_no_face():
     avg_face, eigenfaces = compute_eigenfaces(train_images, (100, 100), 15)
@@ -228,7 +268,7 @@ def crop_img(file_path):
 #lbp_generate_histograms_face_no_face()
 # eigenfaces_face_no_face()
 # crop_img('./resources/beard')
-
+generic_lbp_histograms_face_no_face()
 
 def beard_no_beard():
     images_train = crop_img('./resources/beard')
@@ -261,4 +301,4 @@ def beard_no_beard():
 
 
 # predict_face_with_eigenfaces()
-beard_no_beard() #erkennt 3 tage bart
+#beard_no_beard() #erkennt 3 tage bart
